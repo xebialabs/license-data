@@ -849,6 +849,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.hierynomus:sshj": {
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
         "dom4j:dom4j": {
             "license": "BSD-dom4j",
             "licenseSource": "data"
