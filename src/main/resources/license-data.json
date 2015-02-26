@@ -20,6 +20,16 @@
             "license": "AFL-2.1",
             "licenseSource": "data"
         },
+        "com.mchange:c3p0": {
+            "license": "EPL-1.0",
+            "licenseSource": "data",
+            "additionalLicenses": "LGPL-2.1"
+        },
+        "com.mchange:mchange-commons-java": {
+            "license": "EPL-1.0",
+            "licenseSource": "data",
+            "additionalLicenses": "LGPL-2.1"
+        },
         "com.typesafe.akka:akka-actor_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
