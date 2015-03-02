@@ -30,6 +30,10 @@
             "licenseSource": "data",
             "additionalLicenses": "LGPL-2.1"
         },
+        "com.spatial4j:spatial4j": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.typesafe.akka:akka-actor_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -437,6 +441,62 @@
             "licenseSource": "data"
         },
         "org.apache.maven:maven-aether-provider": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.elasticsearch:elasticsearch": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-expressions": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-analyzers-common": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-codecs": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-queries": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-memory": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-highlighter": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-queryparser": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-sandbox": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-suggest": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-misc": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-join": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-grouping": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-spatial": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -1498,6 +1558,10 @@
             "license": "Apache-2.0"
         },
         "org.ow2.asm:asm": {
+            "licenseSource": "data",
+            "license": "BSD-INRIA"
+        },
+        "org.ow2.asm:asm-commons": {
             "licenseSource": "data",
             "license": "BSD-INRIA"
         },
