@@ -244,6 +244,11 @@
             "license": "EPL-1.0",
             "licenseSource": "data"
         },
+        "org.eclipse.jetty:jetty-jmx": {
+            "license": "Apache-2.0",
+            "licenseSource": "data",
+            "additionalLicenses": "EPL-1.0"
+        },
         "org.eclipse.jetty:jetty-http": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -370,7 +375,8 @@
         },
         "org.eclipse.jetty:jetty-servlet": {
             "licenseSource": "data",
-            "license": "Apache-2.0"
+            "license": "Apache-2.0",
+            "additionalLicenses": "EPL-1.0"
         },
         "org.eclipse.jetty:jetty-xml": {
             "license": "Apache-2.0",
