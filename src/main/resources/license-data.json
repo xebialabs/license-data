@@ -244,6 +244,14 @@
             "license": "EPL-1.0",
             "licenseSource": "data"
         },
+        "org.eclipse.jetty:jetty-util": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty:jetty-server": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.eclipse.jetty:jetty-jmx": {
             "license": "Apache-2.0",
             "licenseSource": "data",
@@ -262,6 +270,35 @@
             "licenseSource": "data"
         },
         "org.eclipse.jetty:jetty-io": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty:jetty-webapp": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty:jetty-servlet": {
+            "licenseSource": "data",
+            "license": "Apache-2.0",
+            "additionalLicenses": "EPL-1.0"
+        },
+        "org.eclipse.jetty:jetty-xml": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty:jetty-security": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty:jetty-servlets": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.mortbay.jetty:jetty": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.mortbay.jetty:jetty-util": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -287,14 +324,6 @@
         },
         "org.webjars:json2": {
             "license": "Public-Domain",
-            "licenseSource": "data"
-        },
-        "org.eclipse.jetty:jetty-util": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.eclipse.jetty:jetty-server": {
-            "license": "Apache-2.0",
             "licenseSource": "data"
         },
         "org.parboiled:parboiled-scala_2.10": {
@@ -367,23 +396,6 @@
         },
         "org.jruby:jruby-complete": {
             "license": "CPL-1.0",
-            "licenseSource": "data"
-        },
-        "org.eclipse.jetty:jetty-webapp": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.eclipse.jetty:jetty-servlet": {
-            "licenseSource": "data",
-            "license": "Apache-2.0",
-            "additionalLicenses": "EPL-1.0"
-        },
-        "org.eclipse.jetty:jetty-xml": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.eclipse.jetty:jetty-security": {
-            "license": "Apache-2.0",
             "licenseSource": "data"
         },
         "org.json4s:json4s-jackson_2.10": {
@@ -559,18 +571,6 @@
             "licenseSource": "data"
         },
         "org.modeshape:modeshape-schematic": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.mortbay.jetty:jetty": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.mortbay.jetty:jetty-util": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.eclipse.jetty:jetty-servlets": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
