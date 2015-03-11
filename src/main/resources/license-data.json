@@ -1592,7 +1592,7 @@
             "licenseSource": "data",
             "comment": "We have a commercial license for this component."
         },
-        "org.jgrapht:jgrapht-core:0.9.0": {
+        "org.jgrapht:jgrapht-core": {
             "license": "EPL-1.0",
             "additionalLicenses": "LGPL-2.1",
             "licenseSource": "data"
