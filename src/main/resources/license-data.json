@@ -965,6 +965,18 @@
             "license": "BSD-asm",
             "licenseSource": "data"
         },
+        "org.ow2.asm:asm": {
+            "licenseSource": "data",
+            "license": "BSD-INRIA"
+        },
+        "org.ow2.asm:asm-commons": {
+            "licenseSource": "data",
+            "license": "BSD-INRIA"
+        },
+        "org.ow2.asm:asm-tree": {
+            "licenseSource": "data",
+            "license": "BSD-INRIA"
+        },
         "stax:stax-api": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1562,14 +1574,6 @@
         "de.javakaffee:kryo-serializers": {
             "licenseSource": "data",
             "license": "Apache-2.0"
-        },
-        "org.ow2.asm:asm": {
-            "licenseSource": "data",
-            "license": "BSD-INRIA"
-        },
-        "org.ow2.asm:asm-commons": {
-            "licenseSource": "data",
-            "license": "BSD-INRIA"
         },
         "com.assembla.scala-incubator:graph-core_2.10": {
             "licenseSource": "data",
