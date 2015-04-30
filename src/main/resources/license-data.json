@@ -1177,6 +1177,13 @@
             ],
             "licenseSource": "data"
         },
+        "org.glassfish:javax.json-api": {
+            "license": "CDDL-1.1",
+            "additionalLicenses": [
+                "GPL-2"
+            ],
+            "licenseSource": "data"
+        },
         "org.gagravarr:vorbis-java-tika": {
             "license": "Apache-2.0",
             "licenseSource": "data"
