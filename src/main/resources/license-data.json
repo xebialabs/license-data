@@ -1177,7 +1177,7 @@
             ],
             "licenseSource": "data"
         },
-        "org.glassfish:javax.json-api": {
+        "javax.json:javax.json-api": {
             "license": "CDDL-1.1",
             "additionalLicenses": [
                 "GPL-2"
