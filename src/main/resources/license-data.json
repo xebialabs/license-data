@@ -474,6 +474,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "io.spray:spray-servlet": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "io.spray:spray-servlet_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -491,6 +495,10 @@
             "license": "Apache-2.0"
         },
         "io.spray:spray-routing_2.10": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "io.spray:spray-routing": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -514,7 +522,15 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "io.spray:spray-http": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "io.spray:spray-http_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.spray:spray-util": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -531,6 +547,10 @@
             "licenseSource": "data"
         },
         "io.spray:spray-io_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.spray:spray-httpx": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -1195,6 +1215,10 @@
             "license": "SCALA-LICENSE"
         },
         "com.madgag:scala-arm_2.10": {
+            "licenseSource": "data",
+            "license": "SCALA-LICENSE"
+        },
+        "com.jsuereth:scala-arm_2.10": {
             "licenseSource": "data",
             "license": "SCALA-LICENSE"
         },
