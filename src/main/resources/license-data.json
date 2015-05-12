@@ -86,6 +86,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.fasterxml.jackson.jaxrs:jackson-jaxrs-base": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider": {
             "license": "Apache-2.0",
             "licenseSource": "data"
