@@ -758,6 +758,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
         "org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec": {
             "license": "CDDL-1.0",
             "licenseSource": "data",
