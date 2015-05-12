@@ -726,11 +726,19 @@
             "license": "Day Specification License-2.0",
             "licenseSource": "data"
         },
+        "jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
         "org.jboss.resteasy:jaxrs-api": {
             "license": "CDDL-1.0",
             "licenseSource": "data"
         },
         "org.jboss.resteasy:resteasy-jaxrs": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.jboss.resteasy:resteasy-client": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -1142,7 +1150,19 @@
             "license": "LGPL-2.1",
             "licenseSource": "data"
         },
+        "com.sun.istack:istack-commons-runtime": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
+        "com.sun.xml.fastinfoset:FastInfoset": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.sun.xml.bind:jaxb-impl": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
+        "com.sun.xml.bind:jaxb-core": {
             "license": "CDDL-1.1",
             "licenseSource": "data"
         },
