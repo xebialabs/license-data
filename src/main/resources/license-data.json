@@ -799,7 +799,7 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
-        "org.springframework:spring-data-commons": {
+        "org.springframework.data:spring-data-commons": {
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
