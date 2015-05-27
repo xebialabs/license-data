@@ -1528,7 +1528,7 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "com.jayway.jsonpath:json-path": {
+        "net.minidev:asm": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
