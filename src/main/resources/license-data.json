@@ -34,6 +34,10 @@
             "licenseSource": "data",
             "additionalLicenses": "LGPL-2.1"
         },
+        "javax.xml.bind:jsr173_api": {
+          "license": "CDDL-1.1",
+          "licenseSource": "data"
+        },
         "com.spatial4j:spatial4j": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -486,6 +490,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "io.spray:spray-servlet": {
+          "licenseSource": "data",
+          "license": "Apache-2.0"
+        },
         "io.spray:spray-servlet_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -509,6 +517,10 @@
         "io.spray:spray-routing_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
+        },
+        "io.spray:spray-routing": {
+          "licenseSource": "data",
+          "license": "Apache-2.0"
         },
         "io.spray:spray-routing_2.11": {
             "licenseSource": "data",
@@ -561,6 +573,10 @@
         "io.spray:spray-httpx_2.10": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "io.spray:spray-httpx": {
+          "license": "Apache-2.0",
+          "licenseSource": "data"
         },
         "io.spray:spray-httpx_2.11": {
             "license": "Apache-2.0",
@@ -738,6 +754,10 @@
             "license": "CDDL-1.0",
             "licenseSource": "data"
         },
+        "org.jboss.resteasy:resteasy-client":{
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
         "org.jboss.resteasy:resteasy-jaxrs": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -758,6 +778,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.apache.maven:maven-builder-support":{
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
         "org.jboss.resteasy:resteasy-jettison-provider": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -771,6 +795,11 @@
             "licenseSource": "data",
             "additionalLicenses": "GPL-2, with classpath exception"
         },
+      "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
+        "license": "CDDL-1.0",
+        "licenseSource": "data",
+        "additionalLicenses": "GPL-2, with classpath exception"
+      },
         "org.jboss.marshalling:jboss-marshalling": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1520,9 +1549,37 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.sun.istack:istack-commons-runtime": {
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
         "org.codehaus.jackson:jackson-mapper-asl": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.jaxrs:jackson-jaxrs-base" :{
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.jaxrs:jackson-databind": {
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.jaxrs:jackson-core" :{
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.jaxrs:jackson-module-scala_2.11" :{
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
+        "org.jboss.resteasy:resteasy-jackson2-provider": {
+          "license": "Apache-2.0",
+          "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider": {
+          "license": "Apache-2.0",
+          "licenseSource": "data"
         },
         "net.minidev:json-smart": {
             "license": "Apache-2.0",
