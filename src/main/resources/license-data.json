@@ -1886,6 +1886,10 @@
             "licenseSource": "data",
             "license": "BSD-EPFL"
         },
+        "com.assembla.scala-incubator:graph-constrained_2.11": {
+            "licenseSource": "data",
+            "license": "BSD-EPFL"
+        },
         "javassist:javassist":  {
             "license": "Apache-2.0",
             "additionalLicenses": [
