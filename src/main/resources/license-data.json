@@ -726,6 +726,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.jboss.marshalling:jboss-marshalling-osgi": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
         "javax.servlet:servlet-api": {
             "licenseSource": "data",
             "license": "CDDL-1.0"
