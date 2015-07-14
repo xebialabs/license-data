@@ -1935,6 +1935,10 @@
         "log4j:log4j": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "com.amazonaws:aws-java-sdk-codepipeline": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
         }
     },
     "licenses": {
