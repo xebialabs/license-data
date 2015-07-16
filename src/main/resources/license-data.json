@@ -1939,6 +1939,14 @@
         "com.amazonaws:aws-java-sdk-codepipeline": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "org.liquibase:liquibase-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.yaml:snakeyaml": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
         }
     },
     "licenses": {
