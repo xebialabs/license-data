@@ -19,6 +19,9 @@ task checkLicenseData() {
                 def license = it.value.license
                 if(source == 'data') {
                     def ld = data.licenses[license]
+                    if(ld == null) {
+                        throw new RuntimeException("licenses section is missing key for ${license}")
+                    }
                     def f = file("src/main/resources/${ld.file}")
                     if(ld.file && !f.exists()) {
                         throw new RuntimeException("License not found ${f} for ${it.key}")
