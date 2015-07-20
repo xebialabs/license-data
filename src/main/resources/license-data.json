@@ -126,6 +126,10 @@
             "license": "BSD-jzlib",
             "licenseSource": "data"
         },
+        "com.jcraft:jsch": {
+            "license": "BSD-jsch",
+            "licenseSource": "data"
+        },
         "es5-shim": {
             "license": "MIT-ES5-SHIM",
             "licenseSource": "data"
@@ -1081,6 +1085,10 @@
             "license": "BSD-freemarker",
             "licenseSource": "data"
         },
+        "org.fitnesse:fitnesse": {
+            "license": "CPL-1.0",
+            "licenseSource": "data"
+        },
         "javax.mail:mail": {
             "license": "CDDL-1.0",
             "extraLicenses": "GPL-2.0",
@@ -1410,6 +1418,14 @@
             ],
             "licenseSource": "data"
         },
+        "org.htmlparser:htmlparser": {
+            "license": "CPL-1.0",
+            "licenseSource": "data"
+        },
+        "org.htmlparser:htmllexer": {
+            "license": "CPL-1.0",
+            "licenseSource": "data"
+        },
         "javax.json:javax.json-api": {
             "license": "CDDL-1.1",
             "additionalLicenses": [
@@ -1437,6 +1453,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.apache.velocity:velocity": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.bouncycastle:bcmail-jdk15": {
             "license": "Bouncy-Castle-License",
             "licenseSource": "data"
@@ -1459,6 +1479,14 @@
         },
         "com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer": {
             "license": "BSD-3CLAUSE",
+            "licenseSource": "data"
+        },
+        "com.googlecode.java-diff-utils:diffutils": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.googlecode.javaewah:JavaEWAH": {
+            "license": "Apache-2.0",
             "licenseSource": "data"
         },
         "com.drewnoakes:metadata-extractor": {
@@ -1551,6 +1579,10 @@
         },
         "org.jboss:jboss-dmr": {
             "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jgit:org.eclipse.jgit": {
+            "license": "EDL-1.0",
             "licenseSource": "data"
         },
         "org.codehaus.jackson:jackson-core-asl": {
@@ -1998,6 +2030,10 @@
             "type": "EPL-1.0",
             "file": "EPL-1.0"
         },
+        "EDL-1.0": {
+            "type": "BSD",
+            "file": "EDL-1.0"
+        },
         "MIT-JSLINT": {
             "type": "MIT",
             "file": "MIT-JSLINT"
@@ -2041,6 +2077,10 @@
         "BSD-jzlib": {
             "type": "BSD",
             "file": "BSD-JZLIB"
+        },
+        "BSD-jsch": {
+            "type": "BSD",
+            "file": "BSD-JSCH"
         },
         "LGPL-2.1": {
             "type": "LGPL 2.1",
