@@ -1825,6 +1825,18 @@
             "license": "BSD-3CLAUSE",
             "licenseSource": "data"
         },
+        "com.esotericsoftware:minlog": {
+          "license": "BSD-EsotericSoftware",
+          "licenseSource": "data"
+        },
+        "com.esotericsoftware:kryo": {
+          "license": "BSD-3CLAUSE",
+          "licenseSource": "data"
+        },
+        "com.esotericsoftware:reflectasm": {
+          "license": "BSD-EsotericSoftware",
+          "licenseSource": "data"
+        },
         "net.jpountz.lz4:lz4": {
             "license": "Apache-2.0",
             "licenseSource": "data"
