@@ -1991,6 +1991,26 @@
         "org.yaml:snakeyaml": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "javax.transaction:jta": {
+            "license": "JTA",
+            "licenseSource": "data"
+        },
+        "com.atomikos:transactions": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.atomikos:transactions-jta": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.atomikos:transactions-api": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.atomikos:atomikos-util": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
         }
     },
     "licenses": {
@@ -2214,6 +2234,10 @@
         "BSD-Knopflerfish": {
             "type": "BSD",
             "file": "BSD-KNOPFLERFISH"
+        },
+        "JTA": {
+            "type": "JTA",
+            "file": "JTA"
         }
     }
 }
