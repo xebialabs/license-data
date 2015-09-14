@@ -61,13 +61,21 @@
         "com.typesafe.akka:akka-cluster_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
-        },        
+        },
         "com.typesafe.akka:akka-cluster-sharding_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
-        },        
+        },
+        "com.typesafe.akka:akka-protobuf_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.chuusai:shapeless_2.10": {
             "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "net.sf.jopt-simple:jopt-simple": {
+            "license": "MIT",
             "licenseSource": "data"
         },
         "com.chuusai:shapeless_2.11": {
