@@ -2039,7 +2039,19 @@
         "com.atomikos:atomikos-util": {
             "license": "Apache-2.0",
             "licenseSource": "data"
-        }
+        },
+	"com.toastcoders:yavijava": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+	"org.projectlombok:lombok": {
+	    "license": "Apache-2.0",
+            "licenseSource": "data"		
+	},
+	"org.apache.directory.studio:org.dom4j.dom4j": {
+	    "license": "Apache-2.0",
+            "licenseSource": "data"
+	}
     },
     "licenses": {
         "Apache-2.0": {
