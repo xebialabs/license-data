@@ -82,6 +82,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.github.dnvriend:akka-persistence-jdbc_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.chuusai:shapeless_2.10": {
             "license": "Apache-2.0",
             "licenseSource": "data"
