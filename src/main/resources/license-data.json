@@ -86,6 +86,22 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "org.scalikejdbc:scalikejdbc_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "org.scalikejdbc:scalikejdbc-core_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "org.scalikejdbc:scalikejdbc-interpolation_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "org.scalikejdbc:scalikejdbc-interpolation-macro_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.chuusai:shapeless_2.10": {
             "license": "Apache-2.0",
             "licenseSource": "data"
