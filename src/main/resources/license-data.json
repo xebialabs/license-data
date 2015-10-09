@@ -806,15 +806,29 @@
             "license": "Day Specification License-2.0",
             "licenseSource": "data"
         },
-        "jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
+        "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
+            "license": "CDDL-1.0",
+            "licenseSource": "data",
+            "additionalLicenses": "GPL-2, with classpath exception"
+        },
+        "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
             "license": "CDDL-1.1",
             "licenseSource": "data"
         },
-        "org.jboss.resteasy:jaxrs-api": {
-            "license": "CDDL-1.0",
+        "org.jboss.spec.javax.annotation:jboss-annotations-api_1.2_spec": {
+            "license": "CDDL-1.1",
             "licenseSource": "data"
         },
         "org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.0_spec": {
+            "license": "CDDL-1.0",
+            "licenseSource": "data"
+        },
+        "org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec": {
+            "license": "CDDL-1.0",
+            "licenseSource": "data",
+            "additionalLicenses": "GPL-2, with classpath exception"
+        },
+        "org.jboss.resteasy:jaxrs-api": {
             "license": "CDDL-1.0",
             "licenseSource": "data"
         },
@@ -850,20 +864,6 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
-            "license": "CDDL-1.1",
-            "licenseSource": "data"
-        },
-        "org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec": {
-            "license": "CDDL-1.0",
-            "licenseSource": "data",
-            "additionalLicenses": "GPL-2, with classpath exception"
-        },
-      "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
-        "license": "CDDL-1.0",
-        "licenseSource": "data",
-        "additionalLicenses": "GPL-2, with classpath exception"
-      },
         "org.jboss.marshalling:jboss-marshalling": {
             "license": "Apache-2.0",
             "licenseSource": "data"
