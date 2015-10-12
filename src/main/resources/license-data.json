@@ -2064,18 +2064,70 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-	"com.toastcoders:yavijava": {
+      	"com.toastcoders:yavijava": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-	"org.projectlombok:lombok": {
-	    "license": "Apache-2.0",
+      	"org.projectlombok:lombok": {
+      	    "license": "Apache-2.0",
             "licenseSource": "data"
-	},
-	"org.apache.directory.studio:org.dom4j.dom4j": {
-	    "license": "Apache-2.0",
+      	},
+      	"org.apache.directory.studio:org.dom4j.dom4j": {
+      	    "license": "Apache-2.0",
             "licenseSource": "data"
-	}
+      	},
+        "com.nimbusds:lang-tag": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.nimbusds:nimbus-jose-jwt": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:azure-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:azure-mgmt-resources": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:azure-mgmt-network": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:azure-mgmt-compute": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:azure-mgmt-utility": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:adal4j": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.sun.jersey:jersey-client": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
+        "com.sun.jersey:jersey-json": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
+        "com.microsoft.azure:azure-mgmt-storage": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.nimbusds:oauth2-oidc-sdk": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.sun.jersey:jersey-core": {
+            "license": "CDDL-1.1",
+            "licenseSource": "data"
+        },
     },
     "licenses": {
         "Apache-2.0": {
