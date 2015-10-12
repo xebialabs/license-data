@@ -86,6 +86,14 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.enragedginger:akka-quartz-scheduler_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "org.quartz-scheduler:quartz": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "org.scalikejdbc:scalikejdbc_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
