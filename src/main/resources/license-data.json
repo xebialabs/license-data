@@ -2136,6 +2136,10 @@
             "license": "CDDL-1.1",
             "licenseSource": "data"
         },
+        "com.github.zafarkhaja:java-semver": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
     },
     "licenses": {
         "Apache-2.0": {
