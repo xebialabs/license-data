@@ -546,6 +546,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "io.reactivex:rxjava": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "io.spray:spray-servlet": {
             "licenseSource": "data",
             "license": "Apache-2.0"
