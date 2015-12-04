@@ -1689,6 +1689,10 @@
           "license": "Apache-2.0",
           "licenseSource": "data"
         },
+        "net.java.dev.jna:jna": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
         "net.minidev:json-smart": {
             "license": "Apache-2.0",
             "licenseSource": "data"
