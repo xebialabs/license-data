@@ -1,5 +1,9 @@
 {
     "artifacts": {
+        "com.carrotsearch:hppc": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.google.guava:guava": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -33,6 +37,14 @@
             "license": "EPL-1.0",
             "licenseSource": "data",
             "additionalLicenses": "LGPL-2.1"
+        },
+        "com.tdunning:t-digest": {
+            "licenseSource": "data",
+            "license": "BSD-2CLAUSE"
+        },
+        "com.ning:compress-lzf": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
         },
         "javax.xml.bind:jsr173_api": {
           "license": "CDDL-1.1",
@@ -134,6 +146,18 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.fasterxml.jackson.dataformat:jackson-dataformat-cbor": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.dataformat:jackson-dataformat-smile": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.fasterxml.jackson.module:jackson-module-scala_2.10": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -174,6 +198,10 @@
             "license": "BSD-jmustache",
             "licenseSource": "data"
         },
+        "com.twitter:jsr166e": {
+            "license": "CC0-1.0",
+            "licenseSource": "data"
+        },
         "com.xebialabs.overthere:overthere": {
             "license": "XebiaLabs-FLOSS",
             "licenseSource": "data"
@@ -211,6 +239,10 @@
             "licenseSource": "data"
         },
         "commons-beanutils:commons-beanutils": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "commons-cli:commons-cli": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -686,6 +718,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.apache.lucene:lucene-backward-codecs": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.apache.lucene:lucene-codecs": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -707,6 +743,10 @@
             "licenseSource": "data"
         },
         "org.apache.lucene:lucene-sandbox": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.lucene:lucene-spatial3d": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -744,6 +784,10 @@
         },
         "com.google.code.gson:gson": {
             "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.hdrhistogram:HdrHistogram": {
+            "license": "CC0-1.0",
             "licenseSource": "data"
         },
         "org.slf4j:slf4j-api": {
@@ -2293,6 +2337,10 @@
         "BSD-vijava": {
             "type": "BSD",
             "file": "BSD-VIJAVA"
+        },
+        "CC0-1.0": {
+            "type": "Public domain",
+            "file": "CC0-1.0"
         },
         "CCAL-2.5-jcip": {
             "comment": "Not including full text. This seems sufficient from the license perspective.",
