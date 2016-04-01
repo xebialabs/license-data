@@ -2196,6 +2196,11 @@
             "license": "MIT",
             "licenseSource": "data"
         },
+        "net.vrallev.ecc:ecc-25519-java": {
+            "license": "Apache-2.0",
+            "additionalLicenses": "CC0-1.0",
+            "licenseSource": "data"
+        },
     },
     "licenses": {
         "Apache-2.0": {
