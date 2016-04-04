@@ -474,6 +474,10 @@
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
         },
+        "org.scala-lang.modules:scala-java8-compat_2.11": {
+            "license": "SCALA-LICENSE",
+            "licenseSource": "data"
+        },
         "org.webjars:json2": {
             "license": "Public-Domain",
             "licenseSource": "data"
