@@ -1941,6 +1941,18 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.typesafe.akka:akka-stream_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe:ssl-config-akka_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe:ssl-config-core_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.esotericsoftware.kryo:kryo": {
             "license": "BSD-3CLAUSE",
             "licenseSource": "data"
