@@ -1761,6 +1761,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.hashids:hashids": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
         "jquery": {
             "license": "MIT",
             "licenseSource": "data"
