@@ -158,6 +158,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.fasterxml.jackson.module:jackson-module-paranamer": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.fasterxml.jackson.module:jackson-module-scala_2.10": {
             "license": "Apache-2.0",
             "licenseSource": "data"
