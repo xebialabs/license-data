@@ -858,6 +858,10 @@
             "licenseSource": "data",
             "license": "CDDL-1.0"
         },
+        "javax.validation:validation-api": {
+            "licenseSource": "data",
+            "license": "Apache-2.0",
+        },
         "org.apache.jackrabbit:jackrabbit-jcr-server": {
             "license": "Apache-2.0",
             "licenseSource": "jar"
