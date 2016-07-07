@@ -2082,6 +2082,14 @@
             "licenseSource": "data",
             "license": "BSD-EPFL"
         },
+        "org.scalacheck:scalacheck_2.11": {
+          "licenseSource": "data",
+          "license": "BSD-EPFL"
+        },
+        "org.scala-sbt:test-interface": {
+          "licenseSource": "data",
+          "license": "BSD-EPFL"
+        },
         "javassist:javassist":  {
             "license": "Apache-2.0",
             "additionalLicenses": [
