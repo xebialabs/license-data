@@ -2265,6 +2265,10 @@
             "license": "LGPL-2.1",
             "licenseSource": "data"
         },
+        "org.crashub:crash.connectors.telnet": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
         "org.crashub:jcr.core": {
             "license": "LGPL-2.1",
             "licenseSource": "data"
@@ -2275,6 +2279,10 @@
         },
         "org.crashub:crash.cli": {
             "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "net.wimpi:telnetd-x": {
+            "license": "BSD-TELNETD",
             "licenseSource": "data"
         },
         "org.apache.sshd:sshd-core": {
@@ -2523,6 +2531,10 @@
         "JTA": {
             "type": "JTA",
             "file": "JTA"
+        },
+        "BSD-TELNETD": {
+            "type": "BSD",
+            "file": "BSD-TELNETD"
         }
     }
 }
