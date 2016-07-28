@@ -474,7 +474,7 @@
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
         },
-	    "org.scala-lang.modules:scala-xml_2.11": {
+        "org.scala-lang.modules:scala-xml_2.11": {
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
         },
@@ -2164,18 +2164,18 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-      	"com.toastcoders:yavijava": {
+        "com.toastcoders:yavijava": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-      	"org.projectlombok:lombok": {
-      	    "license": "Apache-2.0",
+        "org.projectlombok:lombok": {
+            "license": "Apache-2.0",
             "licenseSource": "data"
-      	},
-      	"org.apache.directory.studio:org.dom4j.dom4j": {
-      	    "license": "Apache-2.0",
+        },
+        "org.apache.directory.studio:org.dom4j.dom4j": {
+            "license": "Apache-2.0",
             "licenseSource": "data"
-      	},
+        },
         "com.nimbusds:lang-tag": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -2241,6 +2241,66 @@
             "additionalLicenses": "CC0-1.0",
             "licenseSource": "data"
         },
+        "com.zaxxer:HikariCP": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.zaxxer:HikariCP-java6": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.play:anorm-tokenizer_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.jsuereth:scala-arm_2.11": {
+            "license": "SCALA-LICENSE",
+            "licenseSource": "data"
+        },
+        "org.crashub:crash.shell": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.crashub:crash.connectors.ssh": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.crashub:crash.connectors.telnet": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.crashub:jcr.core": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.crashub:jcr.jackrabbit": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.crashub:crash.cli": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "net.wimpi:telnetd-x": {
+            "license": "BSD-TELNETD",
+            "licenseSource": "data"
+        },
+        "org.apache.sshd:sshd-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.sshd:sshd-pam": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.apache.mina:mina-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "net.sf.jpam:jpam": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        }
     },
     "licenses": {
         "Apache-2.0": {
@@ -2471,6 +2531,10 @@
         "JTA": {
             "type": "JTA",
             "file": "JTA"
+        },
+        "BSD-TELNETD": {
+            "type": "BSD",
+            "file": "BSD-TELNETD"
         }
     }
 }
