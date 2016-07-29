@@ -388,6 +388,11 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.eclipse.jetty:jetty-jndi": {
+            "license": "Apache-2.0",
+            "licenseSource": "data",
+            "additionalLicenses": "EPL-1.0"
+        },
         "org.eclipse.jetty:jetty-jmx": {
             "license": "Apache-2.0",
             "licenseSource": "data",
@@ -860,7 +865,7 @@
         },
         "javax.validation:validation-api": {
             "licenseSource": "data",
-            "license": "Apache-2.0",
+            "license": "Apache-2.0"
         },
         "org.apache.jackrabbit:jackrabbit-jcr-server": {
             "license": "Apache-2.0",
@@ -2266,6 +2271,10 @@
             "licenseSource": "data"
         },
         "org.crashub:crash.connectors.telnet": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
+        },
+        "org.crashub:crash.embed.spring": {
             "license": "LGPL-2.1",
             "licenseSource": "data"
         },
