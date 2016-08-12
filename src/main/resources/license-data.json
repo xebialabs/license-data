@@ -499,10 +499,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-      "org.parboiled:parboiled-scala_2.10": {
-        "license": "Apache-2.0",
-        "licenseSource": "data"
-      },
+        "org.parboiled:parboiled-scala_2.10": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.jvnet.mimepull:mimepull": {
             "license": "CDDL-1.1",
             "licenseSource": "data"
@@ -2307,6 +2307,34 @@
             "licenseSource": "data"
         },
         "net.sf.jpam:jpam": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.dropwizard.metrics:metrics-annotation": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.dropwizard.metrics:metrics-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.dropwizard.metrics:metrics-jvm": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.dropwizard.metrics:metrics-healthchecks": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.readytalk:metrics3-statsd": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.readytalk:metrics-statsd-common": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.ryantenney.metrics:metrics-spring": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         }
