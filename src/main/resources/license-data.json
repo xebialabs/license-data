@@ -1247,6 +1247,10 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
+        "org.apache.derby:derbyclient": {
+            "license": "Apache-2.0",
+            "licenseSource": "jar"
+        },
         "jcifs:jcifs": {
             "license": "LGPL-2.1",
             "licenseSource": "data"
