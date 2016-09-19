@@ -1,11 +1,33 @@
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // Only modify and release the license-data from the master branch of the license-data repository!
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+buildscript {
+  repositories {
+    mavenLocal()
+    ['releases', 'public'].each { r ->
+      maven {
+          url "${nexusBaseUrl}/repositories/${r}"
+          credentials {
+              username nexusUserName
+              password nexusPassword
+          }
+      }
+    }
+  }
+
+  dependencies {
+    classpath "com.xebialabs.gradle.plugins:gradle-xl-defaults-plugin:${xlDefaultsPluginVersion}"
+    classpath "com.xebialabs.gradle.plugins:gradle-xl-dependency-plugin:${xlDependencyPluginVersion}"
+  }
+}
 
 group = 'com.xebialabs.deployit.gradle'
 
-apply plugin: 'deployit-java'
-apply plugin: 'deployit-artifact'
+apply plugin: 'xebialabs.root.opinions'
+apply plugin: 'xebialabs.opinions'
+apply plugin: 'xebialabs.dependency'
+apply plugin: 'java'
+apply plugin: 'maven'
 
 import groovy.json.JsonSlurper
 
