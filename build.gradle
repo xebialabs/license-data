@@ -23,11 +23,12 @@ buildscript {
 
 group = 'com.xebialabs.deployit.gradle'
 
+apply plugin: 'java'
+apply plugin: 'maven'
 apply plugin: 'xebialabs.root.opinions'
 apply plugin: 'xebialabs.opinions'
 apply plugin: 'xebialabs.dependency'
-apply plugin: 'java'
-apply plugin: 'maven'
+apply plugin: 'xebialabs.artifact'
 
 import groovy.json.JsonSlurper
 
