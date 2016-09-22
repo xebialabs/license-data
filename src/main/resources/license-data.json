@@ -2337,6 +2337,14 @@
         "com.ryantenney.metrics:metrics-spring": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "com.hierynomus:smbj": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "net.engio:mbassador": {
+          "license": "MIT",
+          "licenseSource": "data"
         }
     },
     "licenses": {
