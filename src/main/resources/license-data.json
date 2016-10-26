@@ -1223,6 +1223,11 @@
             "extraLicenses": "GPL-2.0",
             "licenseSource": "data"
         },
+        "com.sun.mail:javax.mail": {
+            "license": "CDDL-1.0",
+            "extraLicenses": "GPL-2.0",
+            "licenseSource": "data"
+        },
         "jline:jline": {
             "license": "BSD-jline",
             "licenseSource": "data"
