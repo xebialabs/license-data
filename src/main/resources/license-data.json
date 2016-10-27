@@ -2350,6 +2350,10 @@
         "net.engio:mbassador": {
           "license": "MIT",
           "licenseSource": "data"
+        },
+        "com.xebialabs.crash:jcr.core": {
+            "license": "LGPL-2.1",
+            "licenseSource": "data"
         }
     },
     "licenses": {
