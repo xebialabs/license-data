@@ -1218,11 +1218,6 @@
             "license": "CPL-1.0",
             "licenseSource": "data"
         },
-        "javax.mail:mail": {
-            "license": "CDDL-1.0",
-            "extraLicenses": "GPL-2.0",
-            "licenseSource": "data"
-        },
         "com.sun.mail:javax.mail": {
             "license": "CDDL-1.0",
             "extraLicenses": "GPL-2.0",
