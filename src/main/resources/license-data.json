@@ -291,6 +291,10 @@
             "license": "BSD-ANTLR",
             "licenseSource": "data"
         },
+        "org.antlr:antlr4-runtime": {
+            "license": "BSD-ANTLR4",
+            "licenseSource": "data"
+        },
         "org.antlr:ST4": {
             "license": "BSD-ANTLR",
             "licenseSource": "data"
@@ -720,6 +724,10 @@
             "licenseSource": "data"
         },
         "org.elasticsearch:elasticsearch": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.elasticsearch:securesm": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2524,6 +2532,10 @@
         "BSD-ANTLR": {
             "type": "BSD",
             "file": "BSD-ANTLR"
+        },
+        "BSD-ANTLR4": {
+            "type": "BSD",
+            "file": "BSD-ANTLR4"
         },
         "BSD-INRIA": {
             "type": "BSD",
