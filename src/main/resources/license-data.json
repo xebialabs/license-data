@@ -723,6 +723,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.apache.maven:maven-artifact": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.elasticsearch:elasticsearch": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1963,6 +1967,18 @@
             "licenseSource": "data"
         },
         "com.typesafe.akka:akka-remote_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.aeron:aeron-driver": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "io.aeron:aeron-client": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.agrona:Agrona": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
