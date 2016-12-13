@@ -210,6 +210,10 @@
             "license": "XebiaLabs-FLOSS",
             "licenseSource": "data"
         },
+        "net.i2p.crypto:eddsa": {
+            "license": "Public-Domain",
+            "licenseSource": "data"            
+        },
         "com.jcraft:jzlib": {
             "license": "BSD-jzlib",
             "licenseSource": "data"
