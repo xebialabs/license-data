@@ -17,7 +17,7 @@ buildscript {
 
   dependencies {
     classpath "com.xebialabs.gradle.plugins:gradle-xl-defaults-plugin:${xlDefaultsPluginVersion}"
-    classpath "com.xebialabs.gradle.plugins:gradle-xl-dependency-plugin:${xlDependencyPluginVersion}"
+    classpath "gradle.plugin.com.xebialabs:gradle-xl-dependency-plugin:${xlDependencyPluginVersion}"
   }
 }
 
@@ -27,7 +27,7 @@ apply plugin: 'java'
 apply plugin: 'maven'
 apply plugin: 'xebialabs.root.opinions'
 apply plugin: 'xebialabs.opinions'
-apply plugin: 'xebialabs.dependency'
+apply plugin: 'com.xebialabs.dependency'
 apply plugin: 'xebialabs.artifact'
 
 import groovy.json.JsonSlurper
