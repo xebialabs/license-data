@@ -1986,6 +1986,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.agrona:agrona": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.typesafe.akka:akka-stream_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
