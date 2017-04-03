@@ -2381,6 +2381,10 @@
         "com.xebialabs.crash:jcr.core": {
             "license": "LGPL-2.1",
             "licenseSource": "data"
+        },
+        "com.atlassian.commonmark:commonmark": {
+            "license": "BSD-2CLAUSE",
+            "licenseSource": "data"
         }
     },
     "licenses": {
