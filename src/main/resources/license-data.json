@@ -1113,6 +1113,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework.security.kerberos:spring-security-kerberos-web": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "de.schlichtherle.truezip:truezip-file": {
             "license": "EPL-1.0",
             "licenseSource": "data"
