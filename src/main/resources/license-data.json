@@ -933,6 +933,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.jboss.resteasy:resteasy-jaxrs-services": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.jboss.resteasy:resteasy-client": {
             "license": "Apache-2.0",
             "licenseSource": "data"
