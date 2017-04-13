@@ -1117,6 +1117,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework.security.kerberos:spring-security-kerberos-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.springframework.security.kerberos:spring-security-kerberos-web": {
             "license": "Apache-2.0",
             "licenseSource": "data"
