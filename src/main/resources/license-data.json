@@ -1005,6 +1005,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework.session:spring-session": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.springframework.ldap:spring-ldap-core": {
             "license": "Apache-2.0",
             "licenseSource": "data"
