@@ -2397,6 +2397,26 @@
         "com.atlassian.commonmark:commonmark": {
             "license": "BSD-2CLAUSE",
             "licenseSource": "data"
+        },
+        "com.atlassian.commonmark:commonmark-ext-autolink": {
+            "license": "BSD-2CLAUSE",
+            "licenseSource": "data"
+        },
+        "com.atlassian.commonmark:commonmark-ext-gfm-strikethrough": {
+            "license": "BSD-2CLAUSE",
+            "licenseSource": "data"
+        },
+        "com.atlassian.commonmark:commonmark-ext-gfm-tables": {
+            "license": "BSD-2CLAUSE",
+            "licenseSource": "data"
+        },
+        "com.atlassian.commonmark:commonmark-ext-ins": {
+            "license": "BSD-2CLAUSE",
+            "licenseSource": "data"
+        },
+        "org.nibor.autolink:autolink": {
+            "license": "MIT",
+            "licenseSource": "data"
         }
     },
     "licenses": {
