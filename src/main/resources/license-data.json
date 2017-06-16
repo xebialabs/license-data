@@ -86,7 +86,7 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "com.typesafe.akka:akka-distributed-data-experimental_2.11": {
+        "com.typesafe.akka:akka-distributed-data_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -1013,6 +1013,14 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
+        "org.ow2.asm:asm-analysis": {
+            "licenseSource": "data",
+            "license": "BSD-3CLAUSE"
+        },
+        "org.ow2.asm:asm-util": {
+            "licenseSource": "data",
+            "license": "BSD-3CLAUSE"
+        },
         "org.owasp.antisamy:antisamy": {
             "license": "BSD-antisamy",
             "licenseSource": "data"
@@ -1432,6 +1440,23 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.github.jnr:jffi": {
+            "licenseSource": "data",
+            "license": "Apache-2.0",
+            "additionalLicenses": "LGPL-3"
+        },
+        "com.github.jnr:jnr-ffi": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.github.jnr:jnr-constants": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.github.jnr:jnr-x86asm": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.github.nscala-time:nscala-time_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -1459,6 +1484,10 @@
         "com.madgag:scala-arm_2.10": {
             "licenseSource": "data",
             "license": "SCALA-LICENSE"
+        },
+        "com.jakewharton.byteunits:byteunits": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
         },
         "com.jsuereth:scala-arm_2.10": {
             "licenseSource": "data",
@@ -1531,6 +1560,10 @@
         "org.codehaus.jackson:jackson-xc": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "org.lmdbjava:lmdbjava": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
         },
         "org.mozilla:rhino": {
             "license": "MPL-2.0",
@@ -2523,6 +2556,10 @@
         "LGPL-2.1": {
             "type": "LGPL 2.1",
             "file": "LGPL-2.1"
+        },
+        "LGPL-3.0": {
+            "type": "LGPL 3",
+            "file": "LGPL-3"
         },
         "BSD-dom4j": {
             "type": "BSD Style",
