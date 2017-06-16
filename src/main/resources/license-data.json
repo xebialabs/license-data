@@ -86,6 +86,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.typesafe.akka:akka-distributed-data-experimental_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.typesafe.akka:akka-distributed-data_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
