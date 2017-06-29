@@ -1991,19 +1991,23 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "com.typesafe.akka:akka-stream-experimental_2.10": {
+        "com.typesafe.akka:akka-http_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "com.typesafe.akka:akka-stream-experimental_2.11": {
+        "com.typesafe.akka:akka-http-core_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "com.typesafe.akka:akka-persistence-experimental_2.10": {
+        "com.typesafe.akka:akka-http-spray-json_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "com.typesafe.akka:akka-persistence-experimental_2.11": {
+        "com.typesafe.akka:akka-http-testkit_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-http-xml_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2015,11 +2019,35 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.typesafe.akka:akka-parsing_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-persistence-experimental_2.10": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-persistence-experimental_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.typesafe.akka:akka-remote_2.10": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
         "com.typesafe.akka:akka-remote_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-stream_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-stream-experimental_2.10": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-stream-experimental_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2036,10 +2064,6 @@
             "licenseSource": "data"
         },
         "org.agrona:agrona": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "com.typesafe.akka:akka-stream_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
