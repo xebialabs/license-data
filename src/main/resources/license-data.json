@@ -1722,6 +1722,14 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "javax.cache:cache-api": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.ehcache:ehcache": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.jboss:jboss-dmr": {
             "license": "LGPL-2.1",
             "licenseSource": "data"
