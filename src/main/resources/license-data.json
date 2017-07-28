@@ -1137,6 +1137,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework.security.extensions:spring-security-saml2-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "de.schlichtherle.truezip:truezip-file": {
             "license": "EPL-1.0",
             "licenseSource": "data"
