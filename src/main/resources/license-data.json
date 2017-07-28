@@ -216,7 +216,7 @@
         },
         "net.i2p.crypto:eddsa": {
             "license": "Public-Domain",
-            "licenseSource": "data"            
+            "licenseSource": "data"
         },
         "com.jcraft:jzlib": {
             "license": "BSD-jzlib",
@@ -2478,6 +2478,26 @@
         "org.nibor.autolink:autolink": {
             "license": "MIT",
             "licenseSource": "data"
+        },
+        "org.opensaml:opensaml": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.opensaml:openws": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "ca.juliusdavies:not-yet-commons-ssl": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.owasp.esapi:esapi": {
+            "license": "BSD-OWASP",
+            "licenseSource": "data"
+        },
+        "org.apache.santuario:xmlsec": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
         }
     },
     "licenses": {
@@ -2504,6 +2524,10 @@
         "BSD-xstream": {
             "type": "BSD",
             "file": "BSD-XSTREAM"
+        },
+        "BSD-OWASP": {
+            "type": "BSD",
+            "file": "BSD-OWASP"
         },
         "BSD-antisamy": {
             "type": "BSD",
