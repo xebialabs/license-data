@@ -2359,6 +2359,22 @@
             "additionalLicenses": "CC0-1.0",
             "licenseSource": "data"
         },
+        "com.vladmihalcea.flexy-pool:flexy-hikaricp": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.vladmihalcea.flexy-pool:flexy-codahale-metrics": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.vladmihalcea.flexy-pool:flexy-dropwizard-metrics": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.vladmihalcea.flexy-pool:flexy-pool-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.zaxxer:HikariCP": {
             "license": "Apache-2.0",
             "licenseSource": "data"
