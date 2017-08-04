@@ -2447,6 +2447,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "io.dropwizard.metrics:metrics-jetty9": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "io.dropwizard.metrics:metrics-jvm": {
             "license": "Apache-2.0",
             "licenseSource": "data"
