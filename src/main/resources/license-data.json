@@ -62,6 +62,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.typesafe.akka:akka-actor_2.12": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.typesafe.akka:akka-testkit_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -74,7 +78,15 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.typesafe.akka:akka-persistence_2.12": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.typesafe.akka:akka-cluster_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.typesafe.akka:akka-cluster_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -82,7 +94,15 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.typesafe.akka:akka-cluster-tools_2.12": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.typesafe.akka:akka-cluster-sharding_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.typesafe.akka:akka-cluster-sharding_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -94,7 +114,15 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.typesafe.akka:akka-distributed-data_2.12": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
         "com.typesafe.akka:akka-protobuf_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.typesafe.akka:akka-protobuf_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -103,6 +131,10 @@
             "license": "Apache-2.0"
         },
         "com.enragedginger:akka-quartz-scheduler_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.enragedginger:akka-quartz-scheduler_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -475,6 +507,10 @@
           "license": "SCALA-LICENSE",
           "licenseSource": "data"
         },
+        "org.scala-lang.modules:scala-parser-combinators_2.12":{
+          "license": "SCALA-LICENSE",
+          "licenseSource": "data"
+        },
         "org.scala-lang:scalap": {
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
@@ -495,7 +531,15 @@
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
         },
+        "org.scala-lang.modules:scala-xml_2.12": {
+            "license": "SCALA-LICENSE",
+            "licenseSource": "data"
+        },
         "org.scala-lang.modules:scala-java8-compat_2.11": {
+            "license": "SCALA-LICENSE",
+            "licenseSource": "data"
+        },
+        "org.scala-lang.modules:scala-java8-compat_2.12": {
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
         },
@@ -656,6 +700,10 @@
             "license": "Apache-2.0"
         },
         "io.spray:spray-json_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "io.spray:spray-json_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -1440,11 +1488,19 @@
             "license": "BSD-GRIZZLED",
             "licenseSource": "data"
         },
+        "org.clapper:grizzled-slf4j_2.12": {
+            "license": "BSD-GRIZZLED",
+            "licenseSource": "data"
+        },
         "com.typesafe.akka:akka-slf4j_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
         "com.typesafe.akka:akka-slf4j_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.typesafe.akka:akka-slf4j_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -1474,6 +1530,10 @@
             "license": "Apache-2.0"
         },
         "com.github.nscala-time:nscala-time_2.11": {
+            "licenseSource": "data",
+            "license": "Apache-2.0"
+        },
+        "com.github.nscala-time:nscala-time_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -1999,7 +2059,15 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.github.romix.akka:akka-kryo-serialization_2.12": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.typesafe.akka:akka-http_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-http_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2007,7 +2075,15 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.typesafe.akka:akka-http-core_2.12": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.typesafe.akka:akka-http-spray-json_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-http-spray-json_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2016,6 +2092,10 @@
             "licenseSource": "data"
         },
         "com.typesafe.akka:akka-http-xml_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-http-xml_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2028,6 +2108,10 @@
             "licenseSource": "data"
         },
         "com.typesafe.akka:akka-parsing_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-parsing_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2047,7 +2131,15 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.typesafe.akka:akka-remote_2.12": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.typesafe.akka:akka-stream_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe.akka:akka-stream_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2080,6 +2172,10 @@
             "licenseSource": "data"
         },
         "com.typesafe:ssl-config-core_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.typesafe:ssl-config-core_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2169,6 +2265,10 @@
             "licenseSource": "data"
         },
         "com.twitter:chill_2.11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.twitter:chill_2.12": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -2388,6 +2488,10 @@
             "licenseSource": "data"
         },
         "com.jsuereth:scala-arm_2.11": {
+            "license": "SCALA-LICENSE",
+            "licenseSource": "data"
+        },
+        "com.jsuereth:scala-arm_2.12": {
             "license": "SCALA-LICENSE",
             "licenseSource": "data"
         },
