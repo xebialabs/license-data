@@ -2296,7 +2296,15 @@
             "licenseSource": "data",
             "license": "BSD-EPFL"
         },
+        "com.assembla.scala-incubator:graph-core_2.12": {
+            "licenseSource": "data",
+            "license": "BSD-EPFL"
+        },
         "com.assembla.scala-incubator:graph-constrained_2.11": {
+            "licenseSource": "data",
+            "license": "BSD-EPFL"
+        },
+        "com.assembla.scala-incubator:graph-constrained_2.12": {
             "licenseSource": "data",
             "license": "BSD-EPFL"
         },
