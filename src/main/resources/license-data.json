@@ -126,6 +126,10 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
+        "com.typesafe.slick:slick_2.12": {
+            "licenseSource": "data",
+            "license": "BSD-2CLAUSE"
+        },
         "com.github.dnvriend:akka-persistence-jdbc_2.11": {
             "licenseSource": "data",
             "license": "Apache-2.0"
