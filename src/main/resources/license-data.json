@@ -651,27 +651,27 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.kamon:kamon-jmx_2.12:0.6.7": {
+        "io.kamon:kamon-jmx_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.kamon:kamon-system-metrics_2.12:0.6.7": {
+        "io.kamon:kamon-system-metrics_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.kamon:kamon-akka-2.5_2.12:0.6.7": {
+        "io.kamon:kamon-akka-2.5_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.kamon:kamon-scala_2.12:0.6.7": {
+        "io.kamon:kamon-scala_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.kamon:kamon-core_2.12:0.6.7": {
+        "io.kamon:kamon-core_2.12": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.kamon:sigar-loader:1.6.5-rev002": {
+        "io.kamon:sigar-loader": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
