@@ -483,6 +483,22 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.eclipse.jetty.websocket:websocket-api": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty.websocket:websocket-common": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty.websocket:websocket-server": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty.websocket:websocket-servlet": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.mortbay.jetty:jetty": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1057,11 +1073,19 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
+        "org.springframework:spring-messaging": {
+            "license": "Apache-2.0",
+            "licenseSource": "jar"
+        },
         "org.springframework:spring-web": {
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
         "org.springframework:spring-webmvc": {
+            "license": "Apache-2.0",
+            "licenseSource": "jar"
+        },
+        "org.springframework:spring-websocket": {
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
