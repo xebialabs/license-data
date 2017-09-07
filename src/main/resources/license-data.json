@@ -454,6 +454,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.eclipse.jetty:jetty-client": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.eclipse.jetty:jetty-continuation": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -484,6 +488,10 @@
             "licenseSource": "data"
         },
         "org.eclipse.jetty.websocket:websocket-api": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.eclipse.jetty.websocket:websocket-client": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
