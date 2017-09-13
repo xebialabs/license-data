@@ -1085,6 +1085,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework.security:spring-security-jwt": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.springframework.security.oauth:spring-security-oauth2": {
             "license": "Apache-2.0",
             "licenseSource": "data"
