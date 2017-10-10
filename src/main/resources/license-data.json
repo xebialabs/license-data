@@ -198,6 +198,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.fasterxml.jackson.datatype:jackson-datatype-joda": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.fasterxml.jackson.module:jackson-module-paranamer": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -2429,6 +2433,10 @@
         "org.liquibase:liquibase-core": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "com.mattbertolini:liquibase-slf4j": {
+            "license": "Apache-2.0",
+            "licenseSource": "MIT"
         },
         "org.yaml:snakeyaml": {
             "license": "Apache-2.0",
