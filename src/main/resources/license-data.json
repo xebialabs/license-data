@@ -2435,8 +2435,8 @@
             "licenseSource": "data"
         },
         "com.mattbertolini:liquibase-slf4j": {
-            "license": "Apache-2.0",
-            "licenseSource": "MIT"
+            "license": "MIT",
+            "licenseSource": "data"
         },
         "org.yaml:snakeyaml": {
             "license": "Apache-2.0",
