@@ -1061,6 +1061,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.jboss.resteasy:resteasy-validator-provider-11": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.apache.maven:maven-builder-support":{
           "license": "Apache-2.0",
           "licenseSource": "data"
