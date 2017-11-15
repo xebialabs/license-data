@@ -1729,6 +1729,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "net.minidev:accessors-smart": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.apache.tika:tika-parsers": {
             "license": "Apache-2.0",
             "licenseSource": "data"
