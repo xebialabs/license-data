@@ -2747,7 +2747,7 @@
             "license": "MIT",
             "licenseSource": "data"
         },
-		"com.tqdev.metrics:metrics-jmx": {
+        "com.tqdev.metrics:metrics-jmx": {
             "license": "MIT",
             "licenseSource": "data"
         },
@@ -2755,7 +2755,7 @@
             "license": "MIT",
             "licenseSource": "data"
         },
-		"com.tqdev.metrics:metrics-sigar": {
+        "com.tqdev.metrics:metrics-sigar": {
             "license": "MIT",
             "licenseSource": "data"
         },
