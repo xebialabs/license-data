@@ -2726,6 +2726,50 @@
         "org.apache.santuario:xmlsec": {
             "license": "Apache-2.0",
             "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-aspectj": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-core": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-influxdb": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-jdbc": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-jetty": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+		"com.tqdev.metrics:metrics-jmx": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-jvm": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+		"com.tqdev.metrics:metrics-sigar": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-spring-loaders": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-spring-security": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
+        "com.tqdev.metrics:metrics-spring-webmvc": {
+            "license": "MIT",
+            "licenseSource": "data"
         }
     },
     "licenses": {
