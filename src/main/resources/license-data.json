@@ -2735,6 +2735,10 @@
             "license": "MIT",
             "licenseSource": "data"
         },
+        "com.tqdev.metrics:metrics-http": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
         "com.tqdev.metrics:metrics-influxdb": {
             "license": "MIT",
             "licenseSource": "data"
