@@ -28,16 +28,6 @@
             "license": "AFL-2.1",
             "licenseSource": "data"
         },
-        "com.mchange:c3p0": {
-            "license": "EPL-1.0",
-            "licenseSource": "data",
-            "additionalLicenses": "LGPL-2.1"
-        },
-        "com.mchange:mchange-commons-java": {
-            "license": "EPL-1.0",
-            "licenseSource": "data",
-            "additionalLicenses": "LGPL-2.1"
-        },
         "com.tdunning:t-digest": {
             "licenseSource": "data",
             "license": "BSD-2CLAUSE"
@@ -657,10 +647,6 @@
         },
         "org.webjars:jslint": {
             "license": "MIT-JSLINT",
-            "licenseSource": "data"
-        },
-        "org.jruby:jruby-complete": {
-            "license": "CPL-1.0",
             "licenseSource": "data"
         },
         "org.json4s:json4s-jackson_2.10": {
@@ -1713,10 +1699,6 @@
             "license": "MPL-2.0",
             "licenseSource": "data"
         },
-        "org.jruby:jruby-stdlib": {
-            "license": "CPL-1.0",
-            "licenseSource": "data"
-        },
         "backport-util-concurrent:backport-util-concurrent": {
             "license": "Public-Domain",
             "licenseSource": "data"
@@ -1754,14 +1736,6 @@
             "additionalLicenses": [
                 "GPL-2"
             ],
-            "licenseSource": "data"
-        },
-        "org.htmlparser:htmlparser": {
-            "license": "CPL-1.0",
-            "licenseSource": "data"
-        },
-        "org.htmlparser:htmllexer": {
-            "license": "CPL-1.0",
             "licenseSource": "data"
         },
         "javax.json:javax.json-api": {
@@ -2408,11 +2382,6 @@
             "license": "Commercial",
             "licenseSource": "data",
             "comment": "We have a commercial license for this component."
-        },
-        "org.jgrapht:jgrapht-core": {
-            "license": "EPL-1.0",
-            "additionalLicenses": "LGPL-2.1",
-            "licenseSource": "data"
         },
         "org.apache.maven:maven-builder-support": {
             "license": "Apache-2.0",
