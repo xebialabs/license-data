@@ -1073,35 +1073,35 @@
         },
         "org.springframework:spring-core": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-messaging": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-web": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-webmvc": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-websocket": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-context": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-beans": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework.data:spring-data-commons": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework.security:spring-security-core": {
             "license": "Apache-2.0",
