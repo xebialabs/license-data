@@ -1113,7 +1113,7 @@
         },
         "org.springframework:spring-aop": {
             "license": "Apache-2.0",
-            "licenseSource": "jar"
+            "licenseSource": "data"
         },
         "org.springframework:spring-context-support": {
             "license": "Apache-2.0",
