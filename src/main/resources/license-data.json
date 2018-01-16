@@ -1331,6 +1331,10 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
+        "org.codehaus.mojo:animal-sniffer-annotations": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
         "org.apache.tika:tika-core": {
             "license": "Apache-2.0",
             "licenseSource": "jar"
