@@ -1075,6 +1075,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework:spring-asm": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.springframework:spring-core": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1103,6 +1107,30 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework:spring-jdbc": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework:spring-aop": {
+            "license": "Apache-2.0",
+            "licenseSource": "jar"
+        },
+        "org.springframework:spring-context-support": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework:spring-expression": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework:spring-test": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework:spring-tx": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.springframework.data:spring-data-commons": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1120,6 +1148,26 @@
             "licenseSource": "data"
         },
         "org.springframework.security.oauth:spring-security-oauth2": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework.security:spring-security-web": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework.security:spring-security-ldap": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework.security.kerberos:spring-security-kerberos-core": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework.security.kerberos:spring-security-kerberos-web": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.springframework.security.extensions:spring-security-saml2-core": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -1235,26 +1283,6 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "org.springframework.security:spring-security-web": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.springframework.security:spring-security-ldap": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.springframework.security.kerberos:spring-security-kerberos-core": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.springframework.security.kerberos:spring-security-kerberos-web": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.springframework.security.extensions:spring-security-saml2-core": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
         "de.schlichtherle.truezip:truezip-file": {
             "license": "EPL-1.0",
             "licenseSource": "data"
@@ -1291,10 +1319,6 @@
             "license": "JDOM",
             "licenseSource": "data"
         },
-        "org.springframework:spring-jdbc": {
-            "license": "Apache-2.0",
-            "licenseSource": "jar"
-        },
         "cglib:cglib": {
             "license": "Apache-2.0",
             "licenseSource": "jar"
@@ -1327,25 +1351,9 @@
             "license": "CCAL-2.5-jcip",
             "licenseSource": "data"
         },
-        "org.springframework:spring-asm": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
         "aopalliance:aopalliance": {
             "license": "Public-Domain",
             "licenseSource": "data"
-        },
-        "org.springframework:spring-aop": {
-            "license": "Apache-2.0",
-            "licenseSource": "jar"
-        },
-        "org.springframework:spring-context-support": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.springframework:spring-expression": {
-            "license": "Apache-2.0",
-            "licenseSource": "jar"
         },
         "xmlpull:xmlpull": {
             "license": "Public-Domain",
@@ -1526,10 +1534,6 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
-        "org.springframework:spring-tx": {
-            "license": "Apache-2.0",
-            "licenseSource": "jar"
-        },
         "com.github.scopt:scopt_2.10": {
             "license": "MIT",
             "licenseSource": "data"
@@ -1632,10 +1636,6 @@
             "license": "SCALA-LICENSE"
         },
         "org.jboss.resteasy:resteasy-jackson-provider": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.springframework:spring-test": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
