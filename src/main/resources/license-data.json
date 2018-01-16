@@ -1793,6 +1793,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.google.j2objc:j2objc-annotations": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.googlecode.mp4parser:isoparser": {
             "license": "Apache-2.0",
             "licenseSource": "data"
