@@ -1083,6 +1083,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.springframework:spring-jcl": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "org.springframework:spring-messaging": {
             "license": "Apache-2.0",
             "licenseSource": "data"
