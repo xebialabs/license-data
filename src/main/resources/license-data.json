@@ -8,6 +8,18 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "com.google.errorprone:error_prone_annotations": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "com.google.j2objc:j2objc-annotations": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
+        "org.codehaus.mojo:animal-sniffer-annotations": {
+            "license": "Apache-2.0",
+            "licenseSource": "data"
+        },
         "com.github.ben-manes.caffeine:caffeine": {
             "license": "Apache-2.0",
             "licenseSource": "data"
