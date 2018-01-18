@@ -316,6 +316,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.projectlombok:lombok": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
         "com.h2database:h2": {
             "license": "EPL-1.0",
             "licenseSource": "data",
