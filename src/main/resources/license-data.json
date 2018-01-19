@@ -280,6 +280,10 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
+        "org.kohsuke:groovy-sandbox": {
+            "license": "MIT",
+            "licenseSource": "data"
+        },
         "junit:junit": {
             "license": "CPL-1.0",
             "licenseSource": "data"
