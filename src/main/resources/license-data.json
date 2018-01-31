@@ -581,10 +581,6 @@
             "license": "Public-Domain",
             "licenseSource": "data"
         },
-        "org.parboiled:parboiled-scala_2.10": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
         "org.parboiled:parboiled-scala_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -705,10 +701,6 @@
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
-        "io.spray:spray-servlet": {
-            "licenseSource": "data",
-            "license": "Apache-2.0"
-        },
         "io.spray:spray-servlet_2.10": {
             "licenseSource": "data",
             "license": "Apache-2.0"
@@ -726,14 +718,6 @@
             "license": "Apache-2.0"
         },
         "io.spray:spray-testkit_2.11": {
-            "licenseSource": "data",
-            "license": "Apache-2.0"
-        },
-        "io.spray:spray-routing_2.10": {
-            "licenseSource": "data",
-            "license": "Apache-2.0"
-        },
-        "io.spray:spray-routing": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
@@ -790,10 +774,6 @@
             "licenseSource": "data"
         },
         "io.spray:spray-io_2.11": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "io.spray:spray-httpx": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
@@ -1006,13 +986,9 @@
             "licenseSource": "data"
         },
         "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
-            "license": "CDDL-1.0",
+            "license": "CDDL-1.1",
             "licenseSource": "data",
             "additionalLicenses": "GPL-2, with classpath exception"
-        },
-        "org.jboss.spec.javax.annotation:jboss-annotations-api_1.1_spec": {
-            "license": "CDDL-1.1",
-            "licenseSource": "data"
         },
         "org.jboss.spec.javax.annotation:jboss-annotations-api_1.2_spec": {
             "license": "CDDL-1.1",
@@ -1030,10 +1006,6 @@
         "org.jboss.resteasy:jaxrs-api": {
             "license": "CDDL-1.0",
             "licenseSource": "data"
-        },
-        "org.jboss.resteasy:resteasy-client":{
-          "license": "Apache-2.0",
-          "licenseSource": "data"
         },
         "org.jboss.resteasy:resteasy-jaxrs": {
             "license": "Apache-2.0",
@@ -1062,10 +1034,6 @@
         "org.jboss.resteasy:resteasy-validator-provider-11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
-        },
-        "org.apache.maven:maven-builder-support":{
-          "license": "Apache-2.0",
-          "licenseSource": "data"
         },
         "org.jboss.resteasy:resteasy-jettison-provider": {
             "license": "Apache-2.0",
@@ -1387,11 +1355,6 @@
             "license": "Apache-2.0",
             "licenseSource": "jar"
         },
-        "ch.qos.logback:logback-core": {
-            "license": "EPL-1.0",
-            "extraLicenses": "LGPL-2.1",
-            "licenseSource": "data"
-        },
         "org.freemarker:freemarker": {
             "license": "BSD-freemarker",
             "licenseSource": "data"
@@ -1520,6 +1483,7 @@
         },
         "com.sun.istack:istack-commons-runtime": {
             "license": "CDDL-1.1",
+            "additionalLicenses": "GPL-2",
             "licenseSource": "data"
         },
         "com.sun.xml.fastinfoset:FastInfoset": {
@@ -1727,10 +1691,6 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "net.minidev:json-smart": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
         "net.minidev:accessors-smart": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -1925,22 +1885,6 @@
             "license": "EDL-1.0",
             "licenseSource": "data"
         },
-        "org.codehaus.jackson:jackson-core-asl": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "com.sun.istack:istack-commons-runtime": {
-          "license": "Apache-2.0",
-          "licenseSource": "data"
-        },
-        "org.codehaus.jackson:jackson-mapper-asl": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "com.fasterxml.jackson.jaxrs:jackson-jaxrs-base" :{
-          "license": "Apache-2.0",
-          "licenseSource": "data"
-        },
         "com.fasterxml.jackson.jaxrs:jackson-databind": {
           "license": "Apache-2.0",
           "licenseSource": "data"
@@ -1954,10 +1898,6 @@
           "licenseSource": "data"
         },
         "org.jboss.resteasy:resteasy-jackson2-provider": {
-          "license": "Apache-2.0",
-          "licenseSource": "data"
-        },
-        "com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider": {
           "license": "Apache-2.0",
           "licenseSource": "data"
         },
@@ -1983,10 +1923,6 @@
         },
         "org.scalatest:scalatest_2.11": {
             "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.hashids:hashids": {
-            "license": "MIT",
             "licenseSource": "data"
         },
         "jquery": {
@@ -2129,10 +2065,6 @@
             "license": "MIT",
             "licenseSource": "data"
         },
-        "com.github.romix.akka:akka-kryo-serialization_2.10": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
         "com.github.romix.akka:akka-kryo-serialization_2.11": {
             "license": "Apache-2.0",
             "licenseSource": "data"
@@ -2257,10 +2189,6 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "com.esotericsoftware.kryo:kryo": {
-            "license": "BSD-3CLAUSE",
-            "licenseSource": "data"
-        },
         "com.esotericsoftware:minlog": {
           "license": "BSD-EsotericSoftware",
           "licenseSource": "data"
@@ -2350,19 +2278,11 @@
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
-        "net.jpountz.lz4:lz4": {
-          "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
         "de.javakaffee:kryo-serializers": {
             "licenseSource": "data",
             "license": "Apache-2.0"
         },
         "com.github.romix.akka:akka-kryo-serialization_2.10": {
-             "licenseSource": "data",
-             "license": "Apache-2.0"
-        },
-        "com.github.romix.akka:akka-kryo-serialization_2.11": {
              "licenseSource": "data",
              "license": "Apache-2.0"
         },
@@ -2468,10 +2388,6 @@
             "licenseSource": "data"
         },
         "com.toastcoders:yavijava": {
-            "license": "Apache-2.0",
-            "licenseSource": "data"
-        },
-        "org.projectlombok:lombok": {
             "license": "Apache-2.0",
             "licenseSource": "data"
         },
