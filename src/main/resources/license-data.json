@@ -2005,6 +2005,10 @@
       "license": "EDL-1.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jgit:org.eclipse.jgit.http.apache": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "org.elasticsearch:elasticsearch": {
       "license": "Apache-2.0",
       "licenseSource": "data"
