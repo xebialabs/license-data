@@ -2223,6 +2223,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "org.jsoup:jsoup": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "org.lesscss:lesscss": {
       "license": "Apache-2.0",
       "licenseSource": "data"
