@@ -243,6 +243,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.fasterxml.jackson.datatype:jackson-datatype-jdk8": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.fasterxml.jackson.datatype:jackson-datatype-joda": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -568,6 +572,14 @@
     "com.spatial4j:spatial4j": {
       "licenseSource": "data",
       "license": "Apache-2.0"
+    },
+    "com.squareup.okio:okio": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.squareup.wire:wire-runtime": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
     },
     "com.sun.istack:istack-commons-runtime": {
       "license": "CDDL-1.1",
@@ -1093,6 +1105,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.jsonwebtoken:jjwt": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.kamon:kamon-akka-2.5_2.12": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1118,6 +1134,58 @@
       "license": "Apache-2.0"
     },
     "io.netty:netty": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-buffer": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-http": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-socks": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-handler": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-handler-proxy": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-resolver": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-transport": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-transport-native-epoll": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-transport-native-unix-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor.ipc:reactor-netty": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor:reactor-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1770,6 +1838,10 @@
       "license": "EPL-1.0",
       "licenseSource": "data"
     },
+    "org.atteo:evo-inflector": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.bouncycastle:bcmail-jdk15": {
       "license": "Bouncy-Castle-License",
       "licenseSource": "data"
@@ -1804,6 +1876,22 @@
     },
     "org.clapper:grizzled-slf4j_2.12": {
       "license": "BSD-GRIZZLED",
+      "licenseSource": "data"
+    },
+    "org.cloudfoundry:cloudfoundry-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.cloudfoundry:cloudfoundry-client-reactor": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.cloudfoundry:cloudfoundry-operations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.cloudfoundry:cloudfoundry-util": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.codehaus.gmaven.feature:gmaven-feature-api": {
