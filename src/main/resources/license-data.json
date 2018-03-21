@@ -118,6 +118,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.amazonaws:aws-java-sdk-lambda": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "software.amazon.ion:ion-java": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.amcharts:amChartsFB3": {
       "license": "Commercial",
       "licenseSource": "data",
@@ -425,6 +433,10 @@
       "licenseSource": "data"
     },
     "com.google.protobuf:protobuf-java": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.amazonaws:jmespath-java": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
