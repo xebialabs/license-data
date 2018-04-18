@@ -1,5 +1,10 @@
 #!groovy
 
+
+def releaseArgs(params) = (params.RELEASE_EXPLICIT.trim() == '') ?
+            "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=${params.RELEASE_STAGE}" :
+            "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
+
 pipeline {
   agent none
 
@@ -34,11 +39,7 @@ pipeline {
         cleanWs()
         checkout scm
 
-        def releaseArgs = (params.RELEASE_EXPLICIT.trim() == '') ?
-            "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=${params.RELEASE_STAGE}" :
-            "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
-
-        sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs} -Prelease.createBranch=${params.RELEASE_CREATE_BRANCH}"
+        sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)} -Prelease.createBranch=${params.RELEASE_CREATE_BRANCH}"
 
         script {
           newVersion = readFile 'build/version.dump'
