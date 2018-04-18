@@ -3,7 +3,7 @@
 
 def releaseArgs(params) {
     return (params.RELEASE_EXPLICIT.trim() == '') ?
-        "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=${params.RELEASE_STAGE}" :
+        "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=final" :
         "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
 }
 
