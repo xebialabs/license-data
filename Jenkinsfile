@@ -48,11 +48,11 @@ pipeline {
         }
       }
 
-      post {
-        always {
+//      post {
+  //      always {
           // cleanWs()
-        }
-      }
+    //    }
+      //}
     }
 
     stage('Run Update dependencies') {
