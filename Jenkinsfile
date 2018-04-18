@@ -38,7 +38,7 @@ pipeline {
       }
 
       steps {
-        cleanWs()
+        //cleanWs()
         checkout scm
 
         sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)}"
