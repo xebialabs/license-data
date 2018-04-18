@@ -1,9 +1,11 @@
 #!groovy
 
 
-def releaseArgs(params) = (params.RELEASE_EXPLICIT.trim() == '') ?
-            "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=${params.RELEASE_STAGE}" :
-            "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
+def releaseArgs(params) {
+    return (params.RELEASE_EXPLICIT.trim() == '') ?
+        "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=${params.RELEASE_STAGE}" :
+        "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
+}
 
 pipeline {
   agent none
