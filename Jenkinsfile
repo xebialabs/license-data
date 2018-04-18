@@ -28,7 +28,7 @@ pipeline {
   }
 
   stages {
-    stage('Release XL Platform') {
+    stage('Release License Database') {
       agent {
         label 'release||release-xlr||release-xld'
       }
@@ -41,7 +41,7 @@ pipeline {
         cleanWs()
         checkout scm
 
-        sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)} -Prelease.createBranch=${params.RELEASE_CREATE_BRANCH}"
+        sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)}"
 
         script {
           newVersion = readFile 'build/version.dump'
@@ -61,7 +61,7 @@ pipeline {
             parameters: [
                 string(name: 'branch', env.BRANCH_NAME),
                 string(name: 'project', 'groupUpdateAllDependencies'),
-                string(name: 'dependency', 'xlPlatformVersion'),
+                string(name: 'dependency', 'licenseDatabaseVersion'),
                 string(name: 'newValue', value: newVersion)
             ],
             wait: false
