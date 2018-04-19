@@ -38,7 +38,6 @@ pipeline {
       }
 
       steps {
-        //cleanWs()
         checkout scm
 
         sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)}"
@@ -47,21 +46,15 @@ pipeline {
           newVersion = readFile 'build/version.dump'
         }
       }
-
-//      post {
-  //      always {
-          // cleanWs()
-    //    }
-      //}
     }
 
     stage('Run Update dependencies') {
       steps {
         build job: "Update dependencies",
             parameters: [
-                string(name: 'branch', env.BRANCH_NAME),
-                string(name: 'project', 'groupUpdateAllDependencies'),
-                string(name: 'dependency', 'licenseDatabaseVersion'),
+                string(name: 'branch', value: 'master'),
+                string(name: 'project', value: 'groupUpdateAllDependencies'),
+                string(name: 'dependency', value: 'licenseDatabaseVersion'),
                 string(name: 'newValue', value: newVersion)
             ],
             wait: false
