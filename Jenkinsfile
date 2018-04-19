@@ -6,12 +6,7 @@ def releaseArgs(params) {
         "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
 }
 
-def supportedBranches = [
-    '7.0.x-maintenance',
-    '7.5.x-maintenance',
-    '8.0.x-maintenance',
-    'master'
-]
+def supportedBranches = '7.0.x-maintenance 7.5.x-maintenance 8.0.x-maintenance master'
 
 pipeline {
   agent none
@@ -31,7 +26,7 @@ pipeline {
   parameters {
     choice(name: 'RELEASE_SCOPE', choices: 'patch\nminor\nmajor', description: 'Which version component should be incremented?')
     string(name: 'RELEASE_EXPLICIT', defaultValue: '', description: 'In case of a new development cycle you may need to set the version number explicitly if it is non-contiguous. E.g. put something like 1.2.3 or 1.2.3-beta.10 here.')
-    string(name: 'PUSHABLE_BRANCHES', defaultValue: supportedBranches.join(' '), description: 'a space-separated list of branch names that will be updated')
+    string(name: 'PUSHABLE_BRANCHES', defaultValue: supportedBranches, description: 'a space-separated list of branch names that will be updated')
   }
 
   stages {
@@ -56,7 +51,7 @@ pipeline {
     }
 
     stage('Run Update dependencies') {
-      parallel {
+      steps {
         params.PUSHABLE_BRANCHES.split('\\w').collect { branch ->
             build job: "Update dependencies on branch $branch",
                 parameters: [
