@@ -55,7 +55,7 @@ pipeline {
     stage('Run Update dependencies') {
       steps {
         script {
-          def updateJobs = params.PUSHABLE_BRANCHES.split('\\w').collectEntries {
+          def updateJobs = params.PUSHABLE_BRANCHES.split('\\s+').collectEntries {
             ["branch $it", build([
                 job       : "Update dependencies",
                 parameters: [
