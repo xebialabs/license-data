@@ -51,8 +51,9 @@ pipeline {
     }
 
     stage('Run Update dependencies') {
-      steps {
-        params.PUSHABLE_BRANCHES.split('\\w').collect { branch ->
+      parallel {
+        script {
+          params.PUSHABLE_BRANCHES.split('\\w').collect { branch ->
             build job: "Update dependencies on branch $branch",
                 parameters: [
                     string(name: 'branch', value: branch),
@@ -61,6 +62,7 @@ pipeline {
                     string(name: 'newValue', value: newVersion)
                 ],
                 wait: false
+          }
         }
       }
     }
