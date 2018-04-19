@@ -8,6 +8,8 @@ def releaseArgs(params) {
 
 def supportedBranches = '7.0.x-maintenance 7.5.x-maintenance 8.0.x-maintenance master'
 
+String newVersion
+
 pipeline {
   agent none
 
@@ -45,7 +47,7 @@ pipeline {
         sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)}"
 
         script {
-          newVersion = (readFile('build/version.dump')).split('=').get(1)
+          newVersion = readFile('build/version.dump')
         }
       }
     }
@@ -60,7 +62,7 @@ pipeline {
                     string(name: 'branch', value: it),
                     string(name: 'project', value: 'groupUpdateAllDependencies'),
                     string(name: 'dependency', value: 'licenseDatabaseVersion'),
-                    string(name: 'newValue', value: newVersion)
+                    string(name: 'newValue', value: newVersion.substring(newVersion.lastIndexOf('=') + 1))
                 ],
                 wait      : false
             ])]
