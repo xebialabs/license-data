@@ -12,13 +12,11 @@ environment {
   GRADLE_OPTS = '-XX:MaxPermSize=256m -Xmx1024m  -Djsse.enableSNIExtension=false'
 }
 
-options {
-  buildDiscarder(logRotator(numToKeepStr: '10'))
-  skipDefaultCheckout()
-  timeout(time: 10, unit: 'MINUTES')
-  timestamps()
-  ansiColor('xterm')
-}
+buildDiscarder(logRotator(numToKeepStr: '10'))
+skipDefaultCheckout()
+timeout(time: 10, unit: 'MINUTES')
+timestamps()
+ansiColor('xterm')
 
 parameters {
   choice(name: 'RELEASE_SCOPE', choices: 'patch\nminor\nmajor', description: 'Which version component should be incremented?')
@@ -39,9 +37,7 @@ node {
 
         sh "./gradlew clean build uploadArchives release --no-build-cache ${releaseArgs(params)}"
 
-        script {
-          newVersion = readFile 'build/version.dump'
-        }
+        newVersion = readFile 'build/version.dump'
       }
     }
 
@@ -50,10 +46,10 @@ node {
         params.PUSHABLE_BRANCHES.split('\\w').collect { branch ->
           build job: "Update dependencies on branch $branch",
               parameters: [
-                  string(name: 'branch', value: branch),
-                  string(name: 'project', value: 'groupUpdateAllDependencies'),
-                  string(name: 'dependency', value: 'licenseDatabaseVersion'),
-                  string(name: 'newValue', value: newVersion)
+                  string(name: 'branch', branch),
+                  string(name: 'project', 'groupUpdateAllDependencies'),
+                  string(name: 'dependency', 'licenseDatabaseVersion'),
+                  string(name: 'newValue', newVersion)
               ],
               wait: false
         }
