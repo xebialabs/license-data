@@ -1,6 +1,5 @@
 #!groovy
 
-
 def releaseArgs(params) {
     return (params.RELEASE_EXPLICIT.trim() == '') ?
         "-Prelease.scope=${params.RELEASE_SCOPE} -Prelease.stage=final" :
