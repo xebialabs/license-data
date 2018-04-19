@@ -52,16 +52,18 @@ pipeline {
 
     stage('Run Update dependencies') {
       parallel {
-        script {
-          params.PUSHABLE_BRANCHES.split('\\w').collect { branch ->
-            build job: "Update dependencies on branch $branch",
-                parameters: [
-                    string(name: 'branch', value: branch),
-                    string(name: 'project', value: 'groupUpdateAllDependencies'),
-                    string(name: 'dependency', value: 'licenseDatabaseVersion'),
-                    string(name: 'newValue', value: newVersion)
-                ],
-                wait: false
+        steps {
+          script {
+            params.PUSHABLE_BRANCHES.split('\\w').collect { branch ->
+              build job: "Update dependencies on branch $branch",
+                  parameters: [
+                      string(name: 'branch', value: branch),
+                      string(name: 'project', value: 'groupUpdateAllDependencies'),
+                      string(name: 'dependency', value: 'licenseDatabaseVersion'),
+                      string(name: 'newValue', value: newVersion)
+                  ],
+                  wait: false
+            }
           }
         }
       }
