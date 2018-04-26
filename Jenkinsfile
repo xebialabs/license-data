@@ -55,19 +55,19 @@ pipeline {
     stage('Run Update dependencies') {
       steps {
         script {
-          def updateJobs = params.PUSHABLE_BRANCHES.split('\\s+').collectEntries {
-            ["branch $it", build([
+          def updateJobs = params.PUSHABLE_BRANCHES.split('\\s+').collectEntries { branch ->
+            ["branch $branch", { build([
                 job       : "Update dependencies",
                 parameters: [
-                    string(name: 'branch', value: it),
+                    string(name: 'branch', value: branch),
                     string(name: 'project', value: 'groupUpdateAllDependencies'),
                     string(name: 'dependency', value: 'licenseDatabaseVersion'),
                     string(name: 'newValue', value: newVersion.substring(newVersion.lastIndexOf('=') + 1))
                 ],
                 wait      : false
-            ])]
+            ]) }]
           }
-          parallel updateJobs
+          parallel(updateJobs)
         }
       }
     }
