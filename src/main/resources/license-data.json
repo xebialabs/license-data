@@ -444,6 +444,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.kohsuke:github-api": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "com.googlecode.javaewah:JavaEWAH": {
       "license": "Apache-2.0",
       "licenseSource": "data"
