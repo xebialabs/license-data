@@ -299,6 +299,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.fasterxml.jackson.module:jackson-module-scala_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.ben-manes.caffeine:caffeine": {
       "license": "Apache-2.0",
       "licenseSource": "data"
