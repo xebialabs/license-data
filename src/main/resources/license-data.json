@@ -392,6 +392,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.virtuald:curvesapi": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
     "com.github.zafarkhaja:java-semver": {
       "license": "MIT",
       "licenseSource": "data"
@@ -1543,6 +1547,10 @@
       "licenseSource": "data"
     },
     "org.apache.ant:ant-launcher": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.commons:commons-collections4": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
