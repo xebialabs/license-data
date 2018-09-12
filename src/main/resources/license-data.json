@@ -143,6 +143,10 @@
       "licenseSource": "data",
       "license": "BSD-EPFL"
     },
+    "com.atlassian.annotations:atlassian-annotations": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
     "com.atlassian.commonmark:commonmark": {
       "license": "BSD-2CLAUSE",
       "licenseSource": "data"
@@ -161,6 +165,30 @@
     },
     "com.atlassian.commonmark:commonmark-ext-ins": {
       "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.atlassian.crowd:crowd-integration-api": {
+      "license": "Atlassian",
+      "licenseSource": "data"
+    },
+    "com.atlassian.crowd:crowd-integration-client-common": {
+      "license": "Atlassian",
+      "licenseSource": "data"
+    },
+    "com.atlassian.crowd:crowd-integration-client-rest": {
+      "license": "Atlassian",
+      "licenseSource": "data"
+    },
+    "com.atlassian.crowd:crowd-integration-springsecurity": {
+      "license": "Atlassian",
+      "licenseSource": "data"
+    },
+    "com.atlassian.crowd:crowd-integration-springsecurity-common": {
+      "license": "Atlassian",
+      "licenseSource": "data"
+    },
+    "com.atlassian.crowd:embedded-crowd-api": {
+      "license": "Atlassian",
       "licenseSource": "data"
     },
     "com.atomikos:atomikos-util": {
@@ -402,6 +430,10 @@
     },
     "com.google.code.findbugs:annotations": {
       "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.code.findbugs:findbugs-annotations": {
+      "license": "LGPL-3.0",
       "licenseSource": "data"
     },
     "com.google.code.findbugs:jsr305": {
@@ -1595,6 +1627,10 @@
       "licenseSource": "data"
     },
     "org.apache.httpcomponents:httpclient": {
+      "license": "Apache-2.0",
+      "licenseSource": "jar"
+    },
+    "org.apache.httpcomponents:httpclient-cache": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
     },
@@ -2829,6 +2865,11 @@
     "Apache-2.0": {
       "file": "Apache-2.0",
       "type": "Apache-2.0"
+    },
+    "Atlassian": {
+      "file": "Atlassian",
+      "type": "Atlassian",
+      "comment": "Refer section 13 of https://www.atlassian.com/legal/customer-agreement for license agreement"
     },
     "BSD-2CLAUSE": {
       "type": "BSD",
