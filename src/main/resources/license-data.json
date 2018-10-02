@@ -315,6 +315,14 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "com.github.fge:json-patch": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.fge:jackson-coreutils": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.jnr:jffi": {
       "licenseSource": "data",
       "license": "Apache-2.0",
