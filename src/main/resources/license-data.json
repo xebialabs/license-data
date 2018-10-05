@@ -343,6 +343,14 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "com.github.fge:json-patch": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.fge:jackson-coreutils": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.jnr:jffi": {
       "licenseSource": "data",
       "license": "Apache-2.0",
@@ -1372,6 +1380,13 @@
       ],
       "licenseSource": "data"
     },
+    "javax.json.bind:javax.json.bind-api": {
+      "license": "CDDL-1.1",
+      "additionalLicenses": [
+        "GPL-2"
+      ],
+      "licenseSource": "data"
+    },
     "javax.servlet:javax.servlet-api": {
       "licenseSource": "data",
       "license": "CDDL-1.0"
@@ -1938,6 +1953,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.checkerframework:checker-qual": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "org.clapper:grizzled-slf4j_2.10": {
       "license": "BSD-GRIZZLED",
       "licenseSource": "data"
@@ -2307,6 +2326,10 @@
       "additionalLicenses": "GPL-2, with classpath exception"
     },
     "org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.0_spec": {
+      "license": "CDDL-1.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.spec.javax.ws.rs:jboss-jaxrs-api_2.1_spec": {
       "license": "CDDL-1.0",
       "licenseSource": "data"
     },
