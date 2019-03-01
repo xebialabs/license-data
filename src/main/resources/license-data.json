@@ -114,6 +114,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.amazonaws:aws-java-sdk-marketplacemeteringservice": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.amazonaws:aws-java-sdk-s3": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -216,6 +220,10 @@
       "licenseSource": "data"
     },
     "com.chuusai:shapeless_2.11": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.chuusai:shapeless_2.12": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -348,6 +356,10 @@
       "licenseSource": "data"
     },
     "com.github.fge:jackson-coreutils": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.fommil:spray-json-shapeless_2.12": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -517,6 +529,10 @@
       "licenseSource": "data",
       "additionalLicenses": "MPL-1.1"
     },
+    "com.hierynomus:asn-one": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.hierynomus:smbj": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -555,6 +571,10 @@
     },
     "com.jsuereth:scala-arm_2.12": {
       "license": "SCALA-LICENSE",
+      "licenseSource": "data"
+    },
+    "com.lihaoyi:requests_2.12": {
+      "license": "MIT",
       "licenseSource": "data"
     },
     "com.madgag:scala-arm_2.10": {
@@ -2777,6 +2797,10 @@
     },
     "org.tukaani:xz": {
       "license": "Public-Domain",
+      "licenseSource": "data"
+    },
+    "org.typelevel:macro-compat_2.12": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.uncommons.maths:uncommons-maths": {
