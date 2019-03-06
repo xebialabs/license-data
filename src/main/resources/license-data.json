@@ -1381,6 +1381,11 @@
       "license": "CDDL-1.0",
       "licenseSource": "data"
     },
+    "javax.activation:javax.activation-api": {
+      "license": "CDDL-1.0",
+      "extraLicenses": "GPL-2.0",
+      "licenseSource": "data"
+    },
     "javax.annotation:jsr250-api": {
       "license": "CDDL-1.0",
       "licenseSource": "data"
