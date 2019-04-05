@@ -607,16 +607,6 @@
       "license": "MIT",
       "licenseSource": "data"
     },
-    "com.mchange:c3p0": {
-      "license": "EPL-1.0",
-      "additionalLicenses": "LGPL-2.1",
-      "licenseSource": "data"
-    },
-    "com.mchange:mchange-commons-java": {
-      "license": "EPL-1.0",
-      "additionalLicenses": "LGPL-2.1",
-      "licenseSource": "data"
-    },
     "com.microsoft.azure:adal4j": {
       "license": "Apache-2.0",
       "licenseSource": "data"
