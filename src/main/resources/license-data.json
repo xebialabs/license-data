@@ -359,6 +359,16 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.fge:btf": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "LGPL-3"
+    },
+    "com.github.fge:msg-simple": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "LGPL-3"
+    },
     "com.github.fommil:spray-json-shapeless_2.12": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -472,7 +482,15 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.google.guava:failureaccess": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.google.guava:guava": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.guava:listenablefuture": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2244,6 +2262,20 @@
       ],
       "licenseSource": "data"
     },
+    "org.glassfish.jaxb:jaxb-runtime": {
+      "license": "CDDL-1.1",
+      "additionalLicenses": [
+        "GPL-1.1"
+      ],
+      "licenseSource": "data"
+    },
+    "org.glassfish.jaxb:txw2": {
+      "license": "CDDL-1.1",
+      "additionalLicenses": [
+        "GPL-1.1"
+      ],
+      "licenseSource": "data"
+    },
     "org.hashids:hashids": {
       "license": "MIT",
       "licenseSource": "data"
@@ -2345,6 +2377,10 @@
       "license": "CDDL-1.1",
       "licenseSource": "data"
     },
+    "org.jboss.spec.javax.annotation:jboss-annotations-api_1.3_spec": {
+      "license": "CDDL-1.1",
+      "licenseSource": "data"
+    },
     "org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec": {
       "license": "CDDL-1.0",
       "licenseSource": "data",
@@ -2421,6 +2457,10 @@
     },
     "org.jvnet.mimepull:mimepull": {
       "license": "CDDL-1.1",
+      "licenseSource": "data"
+    },
+    "org.jvnet.staxex:stax-ex": {
+      "license": "EDL-1.0",
       "licenseSource": "data"
     },
     "org.knopflerfish:framework": {
