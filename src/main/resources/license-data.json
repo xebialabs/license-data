@@ -2845,6 +2845,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.threeten:threeten-extra": {
+      "license": "BSD-threeten",
+      "licenseSource": "data"
+    },
     "org.tmatesoft.svnkit:svnkit": {
       "license": "Commercial",
       "licenseSource": "data",
@@ -3060,6 +3064,10 @@
     "BSD-jzlib": {
       "type": "BSD",
       "file": "BSD-JZLIB"
+    },
+    "BSD-threeten": {
+      "type": "BSD",
+      "file": "BSD-THREETEN"
     },
     "BSD-vijava": {
       "type": "BSD",
