@@ -2845,6 +2845,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.vault:spring-vault-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.threeten:threeten-extra": {
       "license": "BSD-threeten",
       "licenseSource": "data"
