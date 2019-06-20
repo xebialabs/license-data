@@ -2849,6 +2849,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "net.conjur.api:conjur-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.threeten:threeten-extra": {
       "license": "BSD-threeten",
       "licenseSource": "data"
