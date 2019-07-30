@@ -211,6 +211,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.beust:jcommander": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.carrotsearch:hppc": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1185,6 +1189,10 @@
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "info.picocli:picocli": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.aeron:aeron-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1521,6 +1529,26 @@
       "license": "CPL-1.0",
       "licenseSource": "data"
     },
+    "org.junit.jupiter:junit-jupiter-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "org.junit.jupiter:junit-jupiter-engine": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "org.junit.platform:junit-platform-launcher": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "org.junit.platform:junit-platform-engine": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "org.junit.platform:junit-platform-commons": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "lodash": {
       "licenseSource": "data",
       "license": "MIT-LODASH"
@@ -1643,6 +1671,14 @@
       "licenseSource": "data"
     },
     "org.apache.ant:ant": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.ant:ant-antlr": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.ant:ant-junit": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1950,6 +1986,10 @@
       "license": "Apache-2.0",
       "licenseSource": "jar"
     },
+    "org.apiguardian:apiguardian-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.as3commons:as3commons-lang": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1980,6 +2020,10 @@
     },
     "org.atteo:evo-inflector": {
       "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.beanshell:bsh": {
+      "license": "LGPL-3.0",
       "licenseSource": "data"
     },
     "org.bouncycastle:bcmail-jdk15": {
@@ -2059,6 +2103,94 @@
       "licenseSource": "data"
     },
     "org.codehaus.groovy:groovy-all": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-ant": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-cli-commons": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-groovysh": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-console": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-groovydoc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-docgenerator": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-cli-picocli": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-datetime": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-jmx": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-json": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-jsr223": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-macro": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-nio": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-servlet": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-sql": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-swing": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-templates": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-test": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-test-junit5": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-testng": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-xml": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2284,6 +2416,10 @@
       "additionalLicenses": [
         "GPL-1.1"
       ],
+      "licenseSource": "data"
+    },
+    "org.hamcrest:hamcrest-core": {
+      "license": "BSD-2CLAUSE",
       "licenseSource": "data"
     },
     "org.hashids:hashids": {
@@ -2550,6 +2686,10 @@
       "licenseSource": "data"
     },
     "org.opensaml:xmltooling": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.opentest4j:opentest4j": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2853,6 +2993,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.testng:testng": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.threeten:threeten-extra": {
       "license": "BSD-threeten",
       "licenseSource": "data"
@@ -3125,6 +3269,10 @@
     "EPL-1.0": {
       "type": "EPL-1.0",
       "file": "EPL-1.0"
+    },
+    "EPL-2.0": {
+      "type": "EPL-2.0",
+      "file": "EPL-2.0"
     },
     "ICU-License": {
       "type": "MIT like",
