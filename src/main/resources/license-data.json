@@ -454,6 +454,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.stephenc.jcip:jcip-annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.virtuald:curvesapi": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
@@ -1169,6 +1173,10 @@
       "licenseSource": "data"
     },
     "dom4j:dom4j": {
+      "license": "BSD-dom4j",
+      "licenseSource": "data"
+    },
+    "org.dom4j:dom4j": {
       "license": "BSD-dom4j",
       "licenseSource": "data"
     },
