@@ -859,6 +859,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-coordination_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-distributed-data-experimental_2.11": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -2772,6 +2776,10 @@
     "org.scala-graph:graph-core_2.12": {
       "licenseSource": "data",
       "license": "BSD-EPFL"
+    },
+    "org.scala-lang.modules:scala-collection-compat_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-java8-compat_2.11": {
       "license": "SCALA-LICENSE",
