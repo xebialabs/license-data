@@ -2941,6 +2941,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.session:spring-session-jdbc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.session:spring-session-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework:spring-aop": {
       "license": "Apache-2.0",
       "licenseSource": "data"
