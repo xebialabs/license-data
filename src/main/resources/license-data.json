@@ -1998,6 +1998,10 @@
       "license": "Apache-2.0",
       "licenseSource": "jar"
     },
+    "org.apache-extras.beanshell:bsh": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apiguardian:apiguardian-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
