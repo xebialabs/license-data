@@ -571,6 +571,10 @@
       "license": "ICU-License",
       "licenseSource": "data"
     },
+    "com.icegreen:greenmail": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.jakewharton.byteunits:byteunits": {
       "licenseSource": "data",
       "license": "Apache-2.0"
