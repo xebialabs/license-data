@@ -3145,6 +3145,10 @@
     "xpp3:xpp3_min": {
       "license": "IU-Xtreme-Lab-License",
       "licenseSource": "data"
+    },
+    "com.flipkart.zjsonpatch:zjsonpatch": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
     }
   },
   "licenses": {
