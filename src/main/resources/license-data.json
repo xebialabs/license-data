@@ -633,6 +633,146 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.microsoft.azure:azure": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-client-authentication": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-batch": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-trafficmanager": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-appservice": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-eventhub": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-sql": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-containerinstance": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-containerregistry": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-containerservice": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-keyvault": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-msi": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-graph-rbac": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-dns": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-redis": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-locks": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-cdn": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-cosmosdb": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-search": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-monitor": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-servicebus": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-mgmt-batchai": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-keyvault": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-client-runtime": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.rest:client-runtime": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-annotations": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.squareup.retrofit2:adapter-rxjava": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-storage": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.squareup.retrofit2:converter-jackson": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-keyvault-webkey": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.squareup.retrofit2:retrofit": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.squareup.okhttp3:logging-interceptor": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.squareup.okhttp3:okhttp-urlconnection": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.squareup.okhttp3:okhttp": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.microsoft.azure:azure-keyvault-core": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "com.microsoft.azure:azure-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
