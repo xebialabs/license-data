@@ -835,7 +835,7 @@
     },
     "com.sksamuel.scapegoat": {
       "license": "Apache-2.0",
-      "licenseSource": "jar"
+      "licenseSource": "data"
     },
     "com.spatial4j:spatial4j": {
       "licenseSource": "data",
