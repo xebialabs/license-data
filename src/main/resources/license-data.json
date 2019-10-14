@@ -833,7 +833,7 @@
       "license": "BSD-jmustache",
       "licenseSource": "data"
     },
-    "com.sksamuel.scapegoat": {
+    "com.sksamuel.scapegoat:scalac-scapegoat-plugin_2.12": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
