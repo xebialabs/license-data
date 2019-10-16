@@ -1457,6 +1457,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-transport-native-kqueue": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-transport-native-unix-common": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1582,6 +1586,14 @@
       "extraLicenses": "GPL-2.0",
       "licenseSource": "data"
     },
+    "javax.jms:javax.jms-api": {
+      "license": "CDDL-1.0",
+      "additionalLicenses": [
+        "GPL-1.1",
+        "GPL-2.0"
+      ],
+      "licenseSource": "data"
+    },
     "javax.annotation:jsr250-api": {
       "license": "CDDL-1.0",
       "licenseSource": "data"
@@ -1592,6 +1604,10 @@
     },
     "javax.jcr:jcr": {
       "license": "Day Specification License-2.0",
+      "licenseSource": "data"
+    },
+    "javax.jms:jms": {
+      "license": "CDDL-1.0",
       "licenseSource": "data"
     },
     "javax.json:javax.json-api": {
@@ -1689,6 +1705,10 @@
       "license": "CPL-1.0",
       "licenseSource": "data"
     },
+    "io.micrometer:micrometer-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.junit.jupiter:junit-jupiter-api": {
       "license": "EPL-2.0",
       "licenseSource": "data"
@@ -1707,6 +1727,10 @@
     },
     "org.junit.platform:junit-platform-commons": {
       "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "org.wildfly.common:wildfly-common": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "lodash": {
@@ -1830,6 +1854,54 @@
       "license": "BSD-ANTLR",
       "licenseSource": "data"
     },
+    "org.apache.activemq:artemis-spring-integration": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-jms-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-service-extensions": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    }, 
+    "org.apache.activemq:artemis-jms-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-selector": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    }, 
+    "org.apache.activemq:artemis-jdbc-store": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    }, 
+    "org.apache.activemq:artemis-journal": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-core-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-commons": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:activemq-artemis-native": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-jms-client-all": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.ant:ant": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1854,6 +1926,10 @@
       "license": "Apache-2.0",
       "licenseSource": "jar"
     },
+    "org.apache.commons:commons-configuration2": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.commons:commons-csv": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1870,6 +1946,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.commons:commons-text": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.derby:derby": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
@@ -1883,6 +1963,18 @@
       "licenseSource": "jar"
     },
     "org.apache.directory.studio:org.dom4j.dom4j": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.geronimo.specs:geronimo-json_1.0_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.geronimo.specs:geronimo-jms_2.0_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.geronimo.specs:geronimo-jta_1.1_spec": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1983,6 +2075,10 @@
       "licenseSource": "data"
     },
     "org.apache.jclouds:jclouds-scriptbuilder": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.johnzon:johnzon-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2618,6 +2714,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.jboss.logmanager:jboss-logmanager": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.jboss.marshalling:jboss-marshalling": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2783,6 +2883,10 @@
     },
     "org.jsoup:jsoup": {
       "license": "MIT",
+      "licenseSource": "data"
+    },
+    "org.latencyutils:LatencyUtils": {
+      "license": "CC0-1.0",
       "licenseSource": "data"
     },
     "org.lesscss:lesscss": {
@@ -3134,6 +3238,10 @@
       "licenseSource": "data"
     },
     "org.springframework:spring-jdbc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework:spring-jms": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
