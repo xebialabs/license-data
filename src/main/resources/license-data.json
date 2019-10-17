@@ -833,6 +833,18 @@
       "license": "BSD-jmustache",
       "licenseSource": "data"
     },
+    "com.sksamuel.elastic4s:elastic4s-client-esjava_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.sksamuel.elastic4s:elastic4s-core_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.sksamuel.exts:exts_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.sksamuel.scapegoat": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
@@ -1869,7 +1881,7 @@
     "org.apache.activemq:artemis-service-extensions": {
       "license": "Apache-2.0",
       "licenseSource": "data"
-    }, 
+    },
     "org.apache.activemq:artemis-jms-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1877,11 +1889,11 @@
     "org.apache.activemq:artemis-selector": {
       "license": "Apache-2.0",
       "licenseSource": "data"
-    }, 
+    },
     "org.apache.activemq:artemis-jdbc-store": {
       "license": "Apache-2.0",
       "licenseSource": "data"
-    }, 
+    },
     "org.apache.activemq:artemis-journal": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1979,6 +1991,14 @@
       "licenseSource": "data"
     },
     "org.apache.geronimo.specs:geronimo-stax-api_1.0_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.httpcomponents:httpasyncclient": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.httpcomponents:httpcore-nio":{
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2634,6 +2654,10 @@
       "licenseSource": "data"
     },
     "org.elasticsearch:elasticsearch": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.elasticsearch.client:elasticsearch-rest-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
