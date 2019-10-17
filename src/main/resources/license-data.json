@@ -1978,7 +1978,15 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.geronimo.specs:geronimo-json_1.0_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.geronimo.specs:geronimo-jms_1.1_spec": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2671,6 +2679,10 @@
     },
     "org.freemarker:freemarker": {
       "license": "BSD-freemarker",
+      "licenseSource": "data"
+    },
+    "org.fusesource.hawtbuf:hawtbuf": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.gagravarr:vorbis-java-core": {
