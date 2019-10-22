@@ -737,6 +737,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "com.openshift:openshift-restclient-java": {
+      "license": "EPL-1.0",
+      "licenseSource": "data"
+    },
     "com.squareup.retrofit2:adapter-rxjava": {
       "license": "Apache-2.0",
       "licenseSource": "data"
