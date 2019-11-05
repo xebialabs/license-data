@@ -1656,6 +1656,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "javax.ws.rs:javax.ws.rs-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "javax.ws.rs:jsr311-api": {
       "license": "CDDL-1.0",
       "licenseSource": "data"
