@@ -3061,6 +3061,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "org.quartz-scheduler:quartz-jobs": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"      
+    },
     "org.reactivestreams:reactive-streams": {
       "license": "Public-Domain",
       "licenseSource": "data"
