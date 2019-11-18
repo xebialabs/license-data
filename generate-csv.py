@@ -41,4 +41,4 @@ with open(sys.argv[2], 'w') as s:
         group_artifacts = art_ga[lib]
         for ga in group_artifacts:
             licenses = ga_license[ga]
-            s.write("%s;%s;%s\r\n" % (ga.replace(":",";"), version, ','.join(licenses)))
+            s.write("%s;%s;%s\n" % (ga.replace(":",";"), version, ','.join(licenses)))
