@@ -1581,6 +1581,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.tmos:arm4s_2.12": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
     "jQuery File Upload Plugin": {
       "license": "MIT",
       "licenseSource": "data"
@@ -3063,7 +3067,7 @@
     },
     "org.quartz-scheduler:quartz-jobs": {
       "licenseSource": "data",
-      "license": "Apache-2.0"      
+      "license": "Apache-2.0"
     },
     "org.reactivestreams:reactive-streams": {
       "license": "Public-Domain",
