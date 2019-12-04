@@ -3321,6 +3321,44 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework:spring-orm": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.data:spring-data-jpa": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.hibernate:hibernate-core": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "org.hibernate.common:hibernate-commons-annotations": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "javax.persistence:javax.persistence-api": {
+      "license": "EDL-1.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL 1.0"
+    },
+    "net.bytebuddy:byte-buddy": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec": {
+      "license": "CDDL-1.0",
+      "licenseSource": "data",
+      "additionalLicenses": "GPL-2.0"
+    },
+    "org.jboss:jandex": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml:classmate": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.vault:spring-vault-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
