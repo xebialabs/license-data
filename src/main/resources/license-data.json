@@ -2330,6 +2330,10 @@
       "license": "Bouncy-Castle-License",
       "licenseSource": "data"
     },
+    "org.bouncycastle:bcpg-jdk15on": {
+      "license": "Bouncy-Castle-License",
+      "licenseSource": "data"
+    },
     "org.bouncycastle:bcpkix-jdk15on": {
       "license": "Bouncy-Castle-License",
       "licenseSource": "data"
