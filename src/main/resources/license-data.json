@@ -1878,6 +1878,18 @@
       "license": "BSD-ANTLR",
       "licenseSource": "data"
     },
+    "org.apache.activemq:activemq-broker": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:activemq-openwire-legacy": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:activemq-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.activemq:artemis-spring-integration": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2239,6 +2251,14 @@
       "licenseSource": "data"
     },
     "org.apache.poi:poi-scratchpad": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.qpid:qpid-jms-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.qpid:proton-j": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
