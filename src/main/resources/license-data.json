@@ -887,10 +887,6 @@
       "extraLicenses": "GPL-2.0",
       "licenseSource": "data"
     },
-    "com.sun.media:jai-codec": {
-      "license": "JAI",
-      "licenseSource": "data"
-    },
     "com.sun.xml.bind:jaxb-core": {
       "license": "CDDL-1.1",
       "licenseSource": "data"
@@ -1648,10 +1644,6 @@
       ],
       "licenseSource": "data"
     },
-    "javax.media:jai-core": {
-      "license": "JAI",
-      "licenseSource": "data"
-    },
     "javax.servlet:javax.servlet-api": {
       "licenseSource": "data",
       "license": "CDDL-1.0"
@@ -2298,93 +2290,17 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "org.apache.xmlgraphics:batik-anim": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-awt-util": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-bridge": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-constants": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "org.apache.xmlgraphics:batik-css": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
     },
-    "org.apache.xmlgraphics:batik-dom": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "org.apache.xmlgraphics:batik-ext": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-extension": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-gvt": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-i18n": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-parser": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-script": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-svg-dom": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-svggen": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:batik-transcoder": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.apache.xmlgraphics:batik-util": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
-    },
-    "org.apache.xmlgraphics:batik-xml": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:fop": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:fop-core": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:fop-events": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:fop-util": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.apache.xmlgraphics:xmlgraphics-commons": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
     },
     "org.apache-extras.beanshell:bsh": {
       "license": "Apache-2.0",
@@ -3572,14 +3488,6 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "xalan:xalan": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "xalan:serializer": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "xerces:xercesImpl": {
       "license": "MPL-1.1",
       "licenseSource": "data"
@@ -3775,10 +3683,6 @@
     "IU-Xtreme-Lab-License": {
       "type": "BSD Style",
       "file": "IU-XTREME-LAB"
-    },
-    "JAI": {
-      "type": "The Java Advance Imaging API",
-      "file": "JAI"
     },
     "JDOM": {
       "type": "Apache Style",
