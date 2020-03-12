@@ -231,6 +231,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.chuusai:shapeless_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.drewnoakes:metadata-extractor": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -419,6 +423,10 @@
       "licenseSource": "data"
     },
     "com.github.romix.akka:akka-kryo-serialization_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.romix.akka:akka-kryo-serialization_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
