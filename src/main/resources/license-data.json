@@ -215,6 +215,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.cedarsoftware:java-util": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.carrotsearch:hppc": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -464,6 +468,26 @@
     },
     "com.github.zafarkhaja:java-semver": {
       "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig_2.12": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig-generic_2.12": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig-generic-base_2.12": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig-core_2.12": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig-macros_2.12": {
+      "license": "MPL-2.0",
       "licenseSource": "data"
     },
     "com.google.code.findbugs:annotations": {
@@ -1401,6 +1425,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.github.classgraph:classgraph": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "io.jsonwebtoken:jjwt": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1612,6 +1640,14 @@
         "GPL-1.1",
         "GPL-2.0"
       ],
+      "licenseSource": "data"
+    },
+    "jakarta.xml.bind:jakarta.xml.bind-api": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "jakarta.activation:jakarta.activation-api": {
+      "license": "EDL-1.0",
       "licenseSource": "data"
     },
     "javax.annotation:jsr250-api": {
@@ -1876,6 +1912,10 @@
     },
     "org.antlr:stringtemplate": {
       "license": "BSD-ANTLR",
+      "licenseSource": "data"
+    },
+    "org.apache.logging.log4j:log4j-api": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.apache.activemq:activemq-broker": {
@@ -2303,6 +2343,166 @@
       "licenseSource": "jar"
     },
     "org.apache-extras.beanshell:bsh": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-spring-javaconfig": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-spring": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-xml-jaxb": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-main": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-core-xml": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-core-engine": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-bean": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-browse": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-caffeine-lrucache": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-controlbus": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-dataformat": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-direct": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-directvm": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-file": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-language": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-log": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-dataset": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-mock": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-ref": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-rest": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-saga": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-scheduler": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-stub": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-vm": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-seda": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-timer": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-validator": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-xpath": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-xslt": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-xml-jaxp": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-base": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-headersmap": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-support": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-management-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-core-catalog": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-util": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-tooling-model": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-util-json": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3367,6 +3567,10 @@
       "additionalLicenses": "EPL 1.0"
     },
     "net.bytebuddy:byte-buddy": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "net.bytebuddy:byte-buddy-agent": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
