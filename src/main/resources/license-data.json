@@ -1279,6 +1279,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.zaxxer:SparseBitSet": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "commons-beanutils:commons-beanutils": {
       "license": "Apache-2.0",
       "licenseSource": "data"
