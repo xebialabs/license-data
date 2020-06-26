@@ -1773,6 +1773,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.jctools:jctools-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.junit.jupiter:junit-jupiter-api": {
       "license": "EPL-2.0",
       "licenseSource": "data"
