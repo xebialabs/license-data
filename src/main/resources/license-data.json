@@ -889,6 +889,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.sun.activation:jakarta.activation": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "com.sun.istack:istack-commons-runtime": {
       "license": "CDDL-1.1",
       "additionalLicenses": "GPL-2",
@@ -904,6 +908,11 @@
     },
     "com.sun.jersey:jersey-json": {
       "license": "CDDL-1.1",
+      "licenseSource": "data"
+    },
+    "com.sun.mail:jakarta.mail": {
+      "license": "EDL-1.0",
+      "extraLicenses": "EPL-2.0",
       "licenseSource": "data"
     },
     "com.sun.mail:javax.mail": {
@@ -1652,6 +1661,10 @@
     },
     "jakarta.activation:jakarta.activation-api": {
       "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "jakarta.validation:jakarta.validation-api": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "javax.annotation:jsr250-api": {
