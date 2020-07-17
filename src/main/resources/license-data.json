@@ -2371,11 +2371,27 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.camel:camel-spring-main": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.camel:camel-spring": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.camel:camel-cluster": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.camel:camel-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-core-languages": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.camel:camel-health": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
