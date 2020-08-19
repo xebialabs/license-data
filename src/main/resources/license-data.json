@@ -3490,6 +3490,18 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.security:spring-security-oauth2-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.security:spring-security-oauth2-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.security:spring-security-oauth2-jose": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.security:spring-security-config": {
       "license": "Apache-2.0",
       "licenseSource": "data"
