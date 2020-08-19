@@ -825,6 +825,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.nimbusds:content-type": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.nimbusds:lang-tag": {
       "license": "Apache-2.0",
       "licenseSource": "data"
