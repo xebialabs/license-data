@@ -295,6 +295,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.fasterxml.jackson.datatype:jackson-datatype-jsr310": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml.jackson.module:jackson-module-parameter-names": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.fasterxml.jackson.datatype:jackson-datatype-jdk8": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1634,6 +1642,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "jakarta.annotation:jakarta.annotation-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "javassist:javassist": {
       "license": "Apache-2.0",
       "additionalLicenses": [
@@ -1939,10 +1951,6 @@
       "license": "BSD-ANTLR",
       "licenseSource": "data"
     },
-    "org.apache.logging.log4j:log4j-api": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "org.apache.activemq:activemq-broker": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2199,6 +2207,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.logging.log4j:log4j-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.logging.log4j:log4j-to-slf4j": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.lucene:lucene-analyzers-common": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2344,6 +2360,14 @@
       "licenseSource": "jar"
     },
     "org.apache.tika:tika-parsers": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.tomcat.embed:tomcat-embed-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.tomcat.embed:tomcat-embed-websocket": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2991,6 +3015,13 @@
       ],
       "licenseSource": "data"
     },
+    "org.glassfish:jakarta.el": {
+      "license": "CDDL-1.1",
+      "additionalLicenses": [
+        "GPL-1.1"
+      ],
+      "licenseSource": "data"
+    },
     "org.hamcrest:hamcrest-core": {
       "license": "BSD-2CLAUSE",
       "licenseSource": "data"
@@ -3467,6 +3498,34 @@
       "licenseSource": "data"
     },
     "org.springextensions.actionscript:spring-actionscript-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-autoconfigure": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-json": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-logging": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-tomcat": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-web": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
