@@ -2,23 +2,23 @@
 // Only modify and release the license-data from the master branch of the license-data repository!
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 buildscript {
-  repositories {
-    mavenLocal()
-    ['releases', 'public'].each { r ->
-      maven {
-          url "${nexusBaseUrl}/repositories/${r}"
-          credentials {
-              username nexusUserName
-              password nexusPassword
-          }
-      }
+    repositories {
+        mavenLocal()
+        ['releases', 'public'].each { r ->
+            maven {
+                url "${nexusBaseUrl}/repositories/${r}"
+                credentials {
+                    username nexusUserName
+                    password nexusPassword
+                }
+            }
+        }
     }
-  }
 
-  dependencies {
-    classpath "com.xebialabs.gradle.plugins:gradle-xl-defaults-plugin:${xlDefaultsPluginVersion}"
-    classpath "gradle.plugin.com.xebialabs:gradle-xl-dependency-plugin:${xlDependencyPluginVersion}"
-  }
+    dependencies {
+        classpath "com.xebialabs.gradle.plugins:gradle-xl-defaults-plugin:${xlDefaultsPluginVersion}"
+        classpath "gradle.plugin.com.xebialabs:gradle-xl-dependency-plugin:${xlDependencyPluginVersion}"
+    }
 }
 
 group = 'com.xebialabs.deployit.gradle'
@@ -40,13 +40,13 @@ task checkLicenseData() {
             data.artifacts.each {
                 def source = it.value.licenseSource
                 def license = it.value.license
-                if(source == 'data') {
+                if (source == 'data') {
                     def ld = data.licenses[license]
-                    if(ld == null) {
+                    if (ld == null) {
                         throw new RuntimeException("licenses section is missing key for ${license}")
                     }
                     def f = file("src/main/resources/${ld.file}")
-                    if(ld.file && !f.exists()) {
+                    if (ld.file && !f.exists()) {
                         throw new RuntimeException("License not found ${f} for ${it.key}")
                     }
                 }
