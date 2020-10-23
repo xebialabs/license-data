@@ -389,6 +389,24 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.java-json-tools:json-patch": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.java-json-tools:jackson-coreutils": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.java-json-tools:btf": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "LGPL-3"
+    },
+    "com.github.java-json-tools:msg-simple": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "LGPL-3"
+    },
     "com.github.jnr:jffi": {
       "licenseSource": "data",
       "license": "Apache-2.0",
@@ -596,6 +614,10 @@
       "licenseSource": "data"
     },
     "com.hierynomus:sshj": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.ibm.async:asyncutil": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1546,6 +1568,14 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "io.smallrye.config:smallrye-config": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.config:smallrye-config-common": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "io.spray:spray-http": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2176,6 +2206,10 @@
       "licenseSource": "data"
     },
     "org.apache.james:apache-mime4j-dom": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.james:apache-mime4j-storage": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2962,6 +2996,10 @@
       "license": "EDL-1.0",
       "licenseSource": "data"
     },
+    "org.eclipse.microprofile.config:microprofile-config-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.elasticsearch:elasticsearch": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3083,6 +3121,18 @@
       "licenseSource": "data"
     },
     "org.jboss.resteasy:resteasy-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.resteasy:resteasy-client-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.resteasy:resteasy-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.resteasy:resteasy-core-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
