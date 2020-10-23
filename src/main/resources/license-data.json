@@ -2121,6 +2121,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.geronimo.specs:geronimo-json_1.1_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.geronimo.specs:geronimo-jta_1.1_spec": {
       "license": "Apache-2.0",
       "licenseSource": "data"
