@@ -93,6 +93,10 @@
       "additionalLicenses": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "net.logstash.logback:logstash-logback-encoder":{
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "colors": {
       "license": "Apache-2.0",
       "licenseSource": "data",
