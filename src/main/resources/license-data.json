@@ -907,7 +907,7 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
-    "com.sksamuel.elastic4s:elastic4s-http_2.12" {
+    "com.sksamuel.elastic4s:elastic4s-http_2.12": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
