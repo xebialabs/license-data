@@ -411,6 +411,11 @@
       "licenseSource": "data",
       "additionalLicenses": "LGPL-3"
     },
+    "com.github.javaparser:javaparser-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "LGPL-3"
+    },
     "com.github.jnr:jffi": {
       "licenseSource": "data",
       "license": "Apache-2.0",
@@ -2734,6 +2739,10 @@
       "licenseSource": "data"
     },
     "org.codehaus.gmaven.runtime:gmaven-runtime-support": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.groovy:groovy-astbuilder": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
