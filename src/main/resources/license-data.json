@@ -2622,6 +2622,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.xbean:xbean-asm7-shaded": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apiguardian:apiguardian-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
