@@ -1489,6 +1489,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "io.github.java-diff-utils:java-diff-utils": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.jsonwebtoken:jjwt": {
       "license": "Apache-2.0",
       "licenseSource": "data"
