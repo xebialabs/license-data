@@ -2906,6 +2906,10 @@
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "org.dbunit:dbunit": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
     "org.eclipse.aether:aether-api": {
       "license": "EPL-1.0",
       "licenseSource": "data"
