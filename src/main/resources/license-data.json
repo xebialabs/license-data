@@ -1970,6 +1970,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.awaitility:awaitility": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.agrona:Agrona": {
       "license": "Apache-2.0",
       "licenseSource": "data"
