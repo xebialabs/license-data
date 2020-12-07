@@ -1693,6 +1693,26 @@
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
+    "jakarta.activation:jakarta.activation-api": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "jakarta.servlet:jakarta.servlet-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.validation:jakarta.validation-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.websocket:jakarta.websocket-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.xml.bind:jakarta.xml.bind-api": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "javassist:javassist": {
       "license": "Apache-2.0",
       "additionalLicenses": [
@@ -1716,18 +1736,6 @@
         "GPL-1.1",
         "GPL-2.0"
       ],
-      "licenseSource": "data"
-    },
-    "jakarta.xml.bind:jakarta.xml.bind-api": {
-      "license": "EDL-1.0",
-      "licenseSource": "data"
-    },
-    "jakarta.activation:jakarta.activation-api": {
-      "license": "EDL-1.0",
-      "licenseSource": "data"
-    },
-    "jakarta.validation:jakarta.validation-api": {
-      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "javax.annotation:jsr250-api": {
@@ -2950,6 +2958,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jetty.websocket:javax-websocket-client-impl": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:javax-websocket-server-impl": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.eclipse.jetty.websocket:websocket-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2967,6 +2983,10 @@
       "licenseSource": "data"
     },
     "org.eclipse.jetty.websocket:websocket-servlet": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty:jetty-annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2995,6 +3015,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data",
       "additionalLicenses": "EPL-1.0"
+    },
+    "org.eclipse.jetty:jetty-plus": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
     },
     "org.eclipse.jetty:jetty-security": {
       "license": "Apache-2.0",
@@ -3597,6 +3621,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-jetty": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
