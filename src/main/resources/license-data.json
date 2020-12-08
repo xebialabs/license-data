@@ -3927,6 +3927,11 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "hcl2json" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "comment": "Refer https://github.com/tmccombs/hcl2json/blob/master/LICENSE for license agreement."
+    },
     "xerces:xercesImpl": {
       "license": "MPL-1.1",
       "licenseSource": "data"
