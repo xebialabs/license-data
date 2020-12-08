@@ -1917,6 +1917,10 @@
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "net.java.dev.jna:jna-platform": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
     "net.jcip:jcip-annotations": {
       "license": "CCAL-2.5-jcip",
       "licenseSource": "data"
