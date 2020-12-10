@@ -1271,6 +1271,11 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.unboundid:unboundid-ldapsdk:4.0.9": {
+      "license": "LGPL-2.1",
+      "additionalLicense": "GPL-2.0",
+      "licenseSource": "data"
+    },
     "com.vladmihalcea.flexy-pool:flexy-codahale-metrics": {
       "license": "Apache-2.0",
       "licenseSource": "data"
