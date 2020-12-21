@@ -1917,6 +1917,10 @@
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "net.java.dev.jna:jna-platform": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
     "net.jcip:jcip-annotations": {
       "license": "CCAL-2.5-jcip",
       "licenseSource": "data"
@@ -3922,6 +3926,11 @@
     "stax:stax-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
+    },
+    "hcl2json" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "comment": "Refer https://github.com/tmccombs/hcl2json/blob/master/LICENSE for license agreement."
     },
     "xerces:xercesImpl": {
       "license": "MPL-1.1",
