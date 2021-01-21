@@ -239,6 +239,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.chuusai:shapeless_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.drewnoakes:metadata-extractor": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -359,6 +363,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.fasterxml.jackson.module:jackson-module-scala_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.ben-manes.caffeine:caffeine": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -449,6 +457,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.github.nscala-time:nscala-time_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.github.romix.akka:akka-kryo-serialization_2.10": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -458,6 +470,10 @@
       "licenseSource": "data"
     },
     "com.github.romix.akka:akka-kryo-serialization_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.altoo:akka-kryo-serialization_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -509,7 +525,15 @@
       "license": "MPL-2.0",
       "licenseSource": "data"
     },
+    "com.github.pureconfig:pureconfig_2.13": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
     "com.github.pureconfig:pureconfig-generic_2.12": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig-generic_2.13": {
       "license": "MPL-2.0",
       "licenseSource": "data"
     },
@@ -517,11 +541,23 @@
       "license": "MPL-2.0",
       "licenseSource": "data"
     },
+    "com.github.pureconfig:pureconfig-generic-base_2.13": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
     "com.github.pureconfig:pureconfig-core_2.12": {
       "license": "MPL-2.0",
       "licenseSource": "data"
     },
+    "com.github.pureconfig:pureconfig-core_2.13": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
     "com.github.pureconfig:pureconfig-macros_2.12": {
+      "license": "MPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.pureconfig:pureconfig-macros_2.13": {
       "license": "MPL-2.0",
       "licenseSource": "data"
     },
@@ -908,7 +944,15 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.sksamuel.elastic4s:elastic4s-client-esjava_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.sksamuel.elastic4s:elastic4s-core_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.sksamuel.elastic4s:elastic4s-core_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -920,7 +964,15 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.sksamuel.exts:exts_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.sksamuel.scapegoat:scalac-scapegoat-plugin_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.sksamuel.scapegoat:scalac-scapegoat-plugin_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1063,6 +1115,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.twitter:chill_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.twitter:jsr166e": {
       "license": "CC0-1.0",
       "licenseSource": "data"
@@ -1076,6 +1132,10 @@
       "license": "Apache-2.0"
     },
     "com.typesafe.akka:akka-actor_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.typesafe.akka:akka-actor_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -1103,6 +1163,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-cluster_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-coordination_2.12": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1127,11 +1191,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.typesafe.akka:akka-http-core_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.typesafe.akka:akka-http-spray-json_2.11": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "com.typesafe.akka:akka-http-spray-json_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.typesafe.akka:akka-http-spray-json_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1147,11 +1219,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.typesafe.akka:akka-http-xml_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.typesafe.akka:akka-http_2.11": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "com.typesafe.akka:akka-http_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.typesafe.akka:akka-http_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1168,6 +1248,10 @@
       "licenseSource": "data"
     },
     "com.typesafe.akka:akka-parsing_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.typesafe.akka:akka-parsing_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1195,6 +1279,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-protobuf_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-remote_2.10": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1207,6 +1295,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.typesafe.akka:akka-remote_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.typesafe.akka:akka-slf4j_2.10": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1216,6 +1308,10 @@
       "license": "Apache-2.0"
     },
     "com.typesafe.akka:akka-slf4j_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.typesafe.akka:akka-slf4j_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -1232,6 +1328,10 @@
       "licenseSource": "data"
     },
     "com.typesafe.akka:akka-stream_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.typesafe.akka:akka-stream_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1268,6 +1368,10 @@
       "licenseSource": "data"
     },
     "com.typesafe:ssl-config-core_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.typesafe:ssl-config-core_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1510,6 +1614,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "io.kamon:kamon-core_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "io.kamon:kamon-jmx_2.12": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1639,6 +1747,10 @@
       "license": "Apache-2.0"
     },
     "io.spray:spray-json_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.spray:spray-json_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -1931,6 +2043,10 @@
       "licenseSource": "data"
     },
     "net.jpountz.lz4:lz4": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.lz4:lz4-java": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2735,6 +2851,10 @@
       "license": "BSD-GRIZZLED",
       "licenseSource": "data"
     },
+    "org.clapper:grizzled-slf4j_2.13": {
+      "license": "BSD-GRIZZLED",
+      "licenseSource": "data"
+    },
     "org.cloudfoundry:cloudfoundry-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3497,11 +3617,23 @@
       "licenseSource": "data",
       "license": "BSD-EPFL"
     },
+    "org.scala-graph:graph-constrained_2.13": {
+      "licenseSource": "data",
+      "license": "BSD-EPFL"
+    },
     "org.scala-graph:graph-core_2.12": {
       "licenseSource": "data",
       "license": "BSD-EPFL"
     },
+    "org.scala-graph:graph-core_2.13": {
+      "licenseSource": "data",
+      "license": "BSD-EPFL"
+    },
     "org.scala-lang.modules:scala-collection-compat_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.scala-lang.modules:scala-collection-compat_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3510,6 +3642,10 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-java8-compat_2.12": {
+      "license": "SCALA-LICENSE",
+      "licenseSource": "data"
+    },
+    "org.scala-lang.modules:scala-java8-compat_2.13": {
       "license": "SCALA-LICENSE",
       "licenseSource": "data"
     },
@@ -3525,11 +3661,19 @@
       "license": "SCALA-LICENSE",
       "licenseSource": "data"
     },
+    "org.scala-lang.modules:scala-parser-combinators_2.13": {
+      "license": "SCALA-LICENSE",
+      "licenseSource": "data"
+    },
     "org.scala-lang.modules:scala-xml_2.11": {
       "license": "SCALA-LICENSE",
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-xml_2.12": {
+      "license": "SCALA-LICENSE",
+      "licenseSource": "data"
+    },
+    "org.scala-lang.modules:scala-xml_2.13": {
       "license": "SCALA-LICENSE",
       "licenseSource": "data"
     },
