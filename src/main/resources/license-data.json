@@ -3465,6 +3465,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "org.lz4:lz4-java": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "org.mapdb:mapdb": {
       "license": "Apache-2.0",
       "licenseSource": "data"
