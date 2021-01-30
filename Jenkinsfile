@@ -33,6 +33,10 @@ pipeline {
 
   stages {
     stage('Release License Database') {
+      when { 
+        changeset "**/src/main/resources/*" 
+      }
+
       agent {
         label 'release||release-xlr||release-xld'
       }
@@ -53,6 +57,10 @@ pipeline {
     }
 
     stage('Run Update dependencies') {
+      when { 
+        changeset "**/src/main/resources/*" 
+      }
+      
       steps {
         script {
           def updateJobs = params.PUSHABLE_BRANCHES.split('\\s+').collectEntries { branch ->
