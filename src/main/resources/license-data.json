@@ -701,7 +701,7 @@
       "licenseSource": "data"
     },
     "com.michaelpollmeier:scala-arm_2.13": {
-      "licese": "BSD-2CLAUSE",
+      "license": "BSD-2CLAUSE",
       "licenseSource": "data"
     },
     "com.microsoft.azure:adal4j": {
@@ -3618,11 +3618,11 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-java8-compat_2.13": {
-      "license": "Apache 2.0",
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-parallel-collections_2.13": {
-      "license": "Apache 2.0",
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-parser-combinators_2.10": {
@@ -3638,7 +3638,7 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-parser-combinators_2.13": {
-      "license": "Apache 2.0",
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-xml_2.11": {
@@ -3650,7 +3650,7 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-xml_2.13": {
-      "license": "Apache 2.0",
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.plugins:scala-continuations-library_2.10": {
