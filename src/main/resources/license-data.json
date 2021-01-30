@@ -976,6 +976,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.sksamuel.scapegoat:scalac-scapegoat-plugin_2.13.3": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.spatial4j:spatial4j": {
       "licenseSource": "data",
       "license": "Apache-2.0"
