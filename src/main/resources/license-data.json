@@ -371,10 +371,6 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "com.fasterxml.jackson.module:jackson-module-scala_2.13": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "com.github.ben-manes.caffeine:caffeine": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -478,10 +474,6 @@
       "licenseSource": "data"
     },
     "com.github.romix.akka:akka-kryo-serialization_2.12": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "io.altoo:akka-kryo-serialization_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2087,10 +2079,6 @@
       "licenseSource": "data"
     },
     "net.jpountz.lz4:lz4": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "org.lz4:lz4-java": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
