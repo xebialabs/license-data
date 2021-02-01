@@ -255,6 +255,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.enragedginger:akka-quartz-scheduler_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.esotericsoftware.kryo:kryo": {
       "license": "BSD-EsotericSoftware",
       "licenseSource": "data"
@@ -360,6 +364,10 @@
       "licenseSource": "data"
     },
     "com.fasterxml.jackson.module:jackson-module-scala_2.12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml.jackson.module:jackson-module-scala_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -726,6 +734,10 @@
     "com.mchange:mchange-commons-java": {
       "license": "EPL-1.0",
       "additionalLicenses": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "com.michaelpollmeier:scala-arm_2.13": {
+      "license": "BSD-2CLAUSE",
       "licenseSource": "data"
     },
     "com.microsoft.azure:adal4j": {
@@ -1151,11 +1163,19 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-cluster-sharding_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-cluster-tools_2.11": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
     "com.typesafe.akka:akka-cluster-tools_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.typesafe.akka:akka-cluster-tools_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -1175,6 +1195,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-coordination_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-distributed-data-experimental_2.11": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1184,6 +1208,10 @@
       "license": "Apache-2.0"
     },
     "com.typesafe.akka:akka-distributed-data_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.typesafe.akka:akka-distributed-data_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -1275,6 +1303,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-persistence_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-protobuf_2.11": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1356,6 +1388,10 @@
       "licenseSource": "data"
     },
     "com.typesafe.slick:slick_2.12": {
+      "licenseSource": "data",
+      "license": "BSD-2CLAUSE"
+    },
+    "com.typesafe.slick:slick_2.13": {
       "licenseSource": "data",
       "license": "BSD-2CLAUSE"
     },
@@ -1571,6 +1607,10 @@
       "licenseSource": "data"
     },
     "io.aeron:aeron-driver": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.altoo:akka-kryo-serialization_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3489,6 +3529,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "org.lz4:lz4-java": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "org.mapdb:mapdb": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3650,7 +3694,11 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-java8-compat_2.13": {
-      "license": "SCALA-LICENSE",
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.scala-lang.modules:scala-parallel-collections_2.13": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-parser-combinators_2.10": {
@@ -3666,7 +3714,7 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-parser-combinators_2.13": {
-      "license": "SCALA-LICENSE",
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-xml_2.11": {
@@ -3678,7 +3726,7 @@
       "licenseSource": "data"
     },
     "org.scala-lang.modules:scala-xml_2.13": {
-      "license": "SCALA-LICENSE",
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.scala-lang.plugins:scala-continuations-library_2.10": {

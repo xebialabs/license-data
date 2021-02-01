@@ -6,7 +6,7 @@ def releaseArgs(params) {
       "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
 }
 
-def supportedBranches = '9.0.x-maintenance 9.5.x-maintenance 9.7.x-maintenance 9.8.x-maintenance master'
+def supportedBranches = '9.5.x-maintenance 9.7.x-maintenance 9.8.x-maintenance 10.0.x-maintenance master'
 
 String newVersion
 
@@ -33,6 +33,10 @@ pipeline {
 
   stages {
     stage('Release License Database') {
+      when { 
+        changeset "**/src/main/resources/*" 
+      }
+
       agent {
         label 'release||release-xlr||release-xld'
       }
@@ -53,6 +57,10 @@ pipeline {
     }
 
     stage('Run Update dependencies') {
+      when { 
+        changeset "**/src/main/resources/*" 
+      }
+      
       steps {
         script {
           def updateJobs = params.PUSHABLE_BRANCHES.split('\\s+').collectEntries { branch ->
