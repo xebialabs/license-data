@@ -3818,11 +3818,23 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-actuator": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-actuator-autoconfigure": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-autoconfigure": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-actuator": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3842,7 +3854,35 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-starter-validation": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-starter-web": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.cloud:spring-cloud-commons" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.cloud:spring-cloud-config-client" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.cloud:spring-cloud-config-server" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.cloud:spring-cloud-context" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.cloud:spring-cloud-starter" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.cloud:spring-cloud-starter-config" : {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3870,6 +3910,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.security:spring-security-crypto": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.security:spring-security-oauth2-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3883,6 +3927,10 @@
       "licenseSource": "data"
     },
     "org.springframework.security:spring-security-oauth2-resource-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.security:spring-security-rsa": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3991,6 +4039,10 @@
       "licenseSource": "data"
     },
     "org.hibernate.common:hibernate-commons-annotations": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "org.hibernate.validator:hibernate-validator": {
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
