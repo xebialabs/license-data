@@ -2263,6 +2263,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.commons:commons-dbcp2": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.commons:commons-email": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2272,6 +2276,10 @@
       "licenseSource": "data"
     },
     "org.apache.commons:commons-math3": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.commons:commons-pool2": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
