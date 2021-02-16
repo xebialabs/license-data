@@ -3878,6 +3878,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.cloud:spring-cloud-starter-bootstrap" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.cloud:spring-cloud-starter-config" : {
       "license": "Apache-2.0",
       "licenseSource": "data"
