@@ -561,6 +561,50 @@
       "license": "MPL-2.0",
       "licenseSource": "data"
     },
+    "com.google.android:annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.api:api-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.api:gax": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.api:gax-grpc": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.api:gax-rpc": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.api.grpc:proto-google-cloud-os-login-v1": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.api.grpc:proto-google-iam-v1": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.api.grpc:proto-google-common-protos": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.auth:google-auth-library-credentials": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.auth:google-auth-library-oauth2-http": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.auto.value:auto-value-annotations": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
     "com.google.code.findbugs:annotations": {
       "license": "BSD-2CLAUSE",
       "licenseSource": "data"
@@ -578,6 +622,14 @@
       "licenseSource": "data"
     },
     "com.google.code.gson:gson": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.cloud:google-cloud-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.cloud:google-cloud-os-login": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -613,7 +665,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.google.http-client:google-http-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.google.http-client:google-http-client-gson": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.google.protobuf:protobuf-java": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.google.protobuf:protobuf-java-util": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
@@ -1630,6 +1694,46 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.grpc:grpc-alts": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-auth": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-context": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-grpclb": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-netty-shaded": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-protobuf": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-protobuf-lite": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-stub": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.jsonwebtoken:jjwt": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1711,6 +1815,18 @@
       "licenseSource": "data"
     },
     "io.netty:netty-transport-native-unix-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.opencensus:opencensus-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.opencensus:opencensus-contrib-http-util": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.perfmark:perfmark-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2867,6 +2983,13 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.checkerframework:checker-compat-qual": {
+      "license": "MIT",
+      "additionalLicenses": [
+        "GPL-2"
+      ],
+      "licenseSource": "data"
+    },
     "org.checkerframework:checker-qual": {
       "license": "MIT",
       "licenseSource": "data"
@@ -3052,6 +3175,10 @@
       "licenseSource": "data"
     },
     "org.codehaus.plexus:plexus-utils": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.conscrypt:conscrypt-openjdk-uber": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -4082,6 +4209,10 @@
     },
     "org.testng:testng": {
       "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.threeten:threetenbp": {
+      "license": "BSD-threeten",
       "licenseSource": "data"
     },
     "org.threeten:threeten-extra": {
