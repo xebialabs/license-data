@@ -3198,6 +3198,26 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.commonmark:commonmark-ext-autolink": {
+      "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
+    "org.commonmark:commonmark-ext-gfm-strikethrough": {
+      "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
+    "org.commonmark:commonmark-ext-gfm-tables": {
+      "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
+    "org.commonmark:commonmark-ext-ins": {
+      "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
+    "org.commonmark:commonmark": {
+      "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
     "org.conscrypt:conscrypt-openjdk-uber": {
       "license": "Apache-2.0",
       "licenseSource": "data"
