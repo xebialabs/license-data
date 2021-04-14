@@ -303,6 +303,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.fasterxml.jackson.dataformat:jackson-dataformat-xml": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.fasterxml.jackson.dataformat:jackson-dataformat-yaml": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -368,6 +372,10 @@
       "licenseSource": "data"
     },
     "com.fasterxml.jackson.module:jackson-module-scala_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml.woodstox:woodstox-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3196,6 +3204,10 @@
     },
     "org.codehaus.plexus:plexus-utils": {
       "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.codehaus.woodstox:stax2-api": {
+      "license": "BSD-2CLAUSE",
       "licenseSource": "data"
     },
     "org.commonmark:commonmark-ext-autolink": {
