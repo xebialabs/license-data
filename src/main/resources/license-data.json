@@ -1806,7 +1806,15 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-codec-dns": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-codec-http": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-http2": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1827,6 +1835,10 @@
       "licenseSource": "data"
     },
     "io.netty:netty-resolver": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-resolver-dns": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1859,6 +1871,22 @@
       "licenseSource": "data"
     },
     "io.projectreactor.ipc:reactor-netty": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor.netty:reactor-netty": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor.netty:reactor-netty-http-brave": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor.netty:reactor-netty-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor.netty:reactor-netty-http": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
