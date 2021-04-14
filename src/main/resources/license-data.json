@@ -1974,6 +1974,26 @@
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
+    "io.zipkin.brave:brave": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.zipkin.brave:brave-instrumentation-http": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.zipkin.reporter2:zipkin-reporter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.zipkin.reporter2:zipkin-reporter-brave": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.zipkin.zipkin2:zipkin": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "jQuery File Upload Plugin": {
       "license": "MIT",
       "licenseSource": "data"
