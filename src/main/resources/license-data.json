@@ -1842,6 +1842,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-resolver-dns-native-macos": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-transport": {
       "license": "Apache-2.0",
       "licenseSource": "data"
