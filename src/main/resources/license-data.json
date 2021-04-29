@@ -449,6 +449,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.github.jnr:jnr-a64asm": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.github.jnr:jnr-x86asm": {
       "licenseSource": "data",
       "license": "Apache-2.0"
