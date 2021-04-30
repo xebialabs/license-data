@@ -2062,6 +2062,13 @@
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
+    "jakarta.persistence:jakarta.persistence-api": {
+      "license": "EPL-2.0",
+      "additionalLicenses": [
+        "EDL-1.0"
+      ],
+      "licenseSource": "data"
+    },
     "jakarta.servlet:jakarta.servlet-api": {
       "license": "EPL-2.0",
       "licenseSource": "data"
