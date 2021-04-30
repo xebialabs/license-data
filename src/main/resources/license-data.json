@@ -1734,6 +1734,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.github.x-stream:mxparser": {
+      "license": "IU-Xtreme-Lab-License",
+      "licenseSource": "data"
+    },
     "io.grpc:grpc-alts": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2048,6 +2052,14 @@
     },
     "jakarta.activation:jakarta.activation-api": {
       "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "jakarta.json:jakarta.json-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.jms:jakarta.jms-api": {
+      "license": "EPL-2.0",
       "licenseSource": "data"
     },
     "jakarta.servlet:jakarta.servlet-api": {
@@ -3500,6 +3512,10 @@
     },
     "org.gagravarr:vorbis-java-tika": {
       "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.glassfish:jakarta.json": {
+      "license": "EPL-2.0",
       "licenseSource": "data"
     },
     "org.glassfish:javax.json": {
