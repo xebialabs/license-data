@@ -4096,6 +4096,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-starter-aop": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-starter-actuator": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -4157,6 +4161,10 @@
       "licenseSource": "data"
     },
     "org.springframework.ldap:spring-ldap-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.retry:spring-retry": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
