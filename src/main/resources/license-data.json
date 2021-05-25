@@ -4116,6 +4116,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-starter-security": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-starter-tomcat": {
       "license": "Apache-2.0",
       "licenseSource": "data"
