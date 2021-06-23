@@ -4132,6 +4132,23 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-starter-data-jpa": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-jdbc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework:spring-aspects": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.transaction:jakarta.transaction-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data",
+      "extraLicenses": "GPL-2"
+    },
     "org.springframework.cloud:spring-cloud-commons" : {
       "license": "Apache-2.0",
       "licenseSource": "data"
