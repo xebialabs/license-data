@@ -2814,6 +2814,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.tomcat.embed:tomcat-embed-el": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.tomcat.embed:tomcat-embed-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
