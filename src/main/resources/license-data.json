@@ -243,6 +243,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.cyberark.conjur.api:conjur-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.drewnoakes:metadata-extractor": {
       "license": "Apache-2.0",
       "licenseSource": "data"
