@@ -38,7 +38,7 @@ pipeline {
       }
 
       tools {
-        jdk 'OpenJDK 11.0.10'
+        jdk 'OpenJDK 11.0.12'
       }
 
       steps {
