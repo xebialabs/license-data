@@ -251,7 +251,7 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "com.ecwid.consul:consul-api:1.4.5": {
+    "com.ecwid.consul:consul-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
