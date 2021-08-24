@@ -251,6 +251,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.ecwid.consul:consul-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.enragedginger:akka-quartz-scheduler_2.11": {
       "licenseSource": "data",
       "license": "Apache-2.0"
