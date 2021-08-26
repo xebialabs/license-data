@@ -4345,6 +4345,10 @@
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "org.hibernate:hibernate-envers": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
     "org.hibernate.common:hibernate-commons-annotations": {
       "license": "LGPL-2.1",
       "licenseSource": "data"
