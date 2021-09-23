@@ -199,6 +199,10 @@
       "license": "Atlassian",
       "licenseSource": "data"
     },
+    "com.atlassian.security:atlassian-secure-xml": {
+	  "license": "Atlassian",
+	  "licenseSource": "data"
+    },
     "com.atomikos:atomikos-util": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2454,6 +2458,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+	"org.apache.activemq:artemis-quorum-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.ant:ant": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2521,6 +2529,14 @@
     "org.apache.derby:derbyclient": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
+    },
+	"org.apache.derby:derbytools": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+	"org.apache.derby:derbyshared": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
     },
     "org.apache.directory.studio:org.dom4j.dom4j": {
       "license": "Apache-2.0",
@@ -3095,6 +3111,10 @@
       "licenseSource": "data"
     },
     "org.bouncycastle:bcprov-jdk16": {
+      "license": "Bouncy-Castle-License",
+      "licenseSource": "data"
+    },
+    "org.bouncycastle:bcutil-jdk15on": {
       "license": "Bouncy-Castle-License",
       "licenseSource": "data"
     },
