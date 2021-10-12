@@ -1435,6 +1435,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.typesafe.akka:akka-serialization-jackson_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-slf4j_2.10": {
       "licenseSource": "data",
       "license": "Apache-2.0"
