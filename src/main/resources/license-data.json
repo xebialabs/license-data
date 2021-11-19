@@ -1750,6 +1750,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.github.resilience4j:resilience4j-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.resilience4j:resilience4j-retry": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.github.x-stream:mxparser": {
       "license": "IU-Xtreme-Lab-License",
       "licenseSource": "data"
@@ -2036,6 +2044,10 @@
     },
     "io.tmos:arm4s_2.12": {
       "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "io.vavr:vavr": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "io.zipkin.brave:brave": {
