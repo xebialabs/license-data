@@ -2050,6 +2050,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.vavr:vavr-match": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.zipkin.brave:brave": {
       "license": "Apache-2.0",
       "licenseSource": "data"
