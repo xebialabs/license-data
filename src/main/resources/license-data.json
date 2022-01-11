@@ -1894,7 +1894,7 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "io.netty::netty-transport-classes-epoll": {
+    "io.netty:netty-transport-classes-epoll": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
