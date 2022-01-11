@@ -1890,6 +1890,18 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-tcnative-classes": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty::netty-transport-classes-epoll": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-transport-classes-kqueue": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-transport-native-epoll": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3760,6 +3772,10 @@
       "licenseSource": "data"
     },
     "org.jdom:jdom": {
+      "license": "JDOM",
+      "licenseSource": "data"
+    },
+    "org.jdom:jdom2": {
       "license": "JDOM",
       "licenseSource": "data"
     },
