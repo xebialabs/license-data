@@ -399,6 +399,22 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.github.docker-java:docker-java-api": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.github.docker-java:docker-java-core": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.github.docker-java:docker-java-transport": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.github.docker-java:docker-java-transport-httpclient5": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.github.drapostolos:type-parser": {
       "license": "MIT",
       "licenseSource": "data"
@@ -2637,6 +2653,14 @@
     "org.apache.httpcomponents:httpmime": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
+    },
+    "org.apache.httpcomponents.client5:httpclient5": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.httpcomponents.core5:httpcore5": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
     },
     "org.apache.jackrabbit:jackrabbit-api": {
       "license": "Apache-2.0",
