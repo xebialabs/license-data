@@ -1898,6 +1898,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-resolver-dns-classes-macos": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-resolver-dns-native-macos": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1930,6 +1934,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty.incubator:netty-incubator-codec-classes-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty.incubator:netty-incubator-codec-native-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.opencensus:opencensus-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1959,6 +1971,10 @@
       "licenseSource": "data"
     },
     "io.projectreactor.netty:reactor-netty-http": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.projectreactor.netty.incubator:reactor-netty-incubator-quic": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2894,6 +2910,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.poi:poi-ooxml-lite": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.poi:poi-ooxml-schemas": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3679,6 +3699,10 @@
       "additionalLicenses": [
         "GPL-1.1"
       ],
+      "licenseSource": "data"
+    },
+    "org.hamcrest:hamcrest": {
+      "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
     "org.hamcrest:hamcrest-core": {
