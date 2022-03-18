@@ -1970,11 +1970,35 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "io.smallrye.common:smallrye-common-annotation": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-classloader": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-constraint": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-expression": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-function": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "io.smallrye.config:smallrye-config": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
     "io.smallrye.config:smallrye-config-common": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.config:smallrye-config-core": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -3582,6 +3606,10 @@
       "licenseSource": "data"
     },
     "org.eclipse.jgit:org.eclipse.jgit.http.apache": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jgit:org.eclipse.jgit.ssh.jsch": {
       "license": "EDL-1.0",
       "licenseSource": "data"
     },
