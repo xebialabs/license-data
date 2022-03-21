@@ -1898,6 +1898,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-resolver-dns-classes-macos": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-resolver-dns-native-macos": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1927,6 +1931,14 @@
       "licenseSource": "data"
     },
     "io.netty:netty-transport-native-unix-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty.incubator:netty-incubator-codec-classes-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty.incubator:netty-incubator-codec-native-quic": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1962,6 +1974,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.projectreactor.netty.incubator:reactor-netty-incubator-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.projectreactor:reactor-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1970,11 +1986,35 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "io.smallrye.common:smallrye-common-annotation": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-classloader": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-constraint": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-expression": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.common:smallrye-common-function": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "io.smallrye.config:smallrye-config": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
     "io.smallrye.config:smallrye-config-common": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye.config:smallrye-config-core": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -2870,6 +2910,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.poi:poi-ooxml-lite": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.poi:poi-ooxml-schemas": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3585,6 +3629,10 @@
       "license": "EDL-1.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jgit:org.eclipse.jgit.ssh.jsch": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "org.eclipse.microprofile.config:microprofile-config-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3651,6 +3699,10 @@
       "additionalLicenses": [
         "GPL-1.1"
       ],
+      "licenseSource": "data"
+    },
+    "org.hamcrest:hamcrest": {
+      "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
     "org.hamcrest:hamcrest-core": {
