@@ -830,6 +830,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "com.lightbend.akka:akka-persistence-jdbc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.madgag:scala-arm_2.10": {
       "licenseSource": "data",
       "license": "SCALA-LICENSE"
@@ -1509,11 +1513,15 @@
     },
     "com.typesafe.slick:slick_2.12": {
       "licenseSource": "data",
-      "license": "BSD-2CLAUSE"
+      "license": "BSD-3CLAUSE"
     },
     "com.typesafe.slick:slick_2.13": {
       "licenseSource": "data",
-      "license": "BSD-2CLAUSE"
+      "license": "BSD-3CLAUSE"
+    },
+    "com.typesafe.slick:slick-hikaricp_2.13": {
+      "licenseSource": "data",
+      "license": "BSD-3CLAUSE"
     },
     "com.typesafe:config": {
       "license": "Apache-2.0",
