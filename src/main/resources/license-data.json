@@ -1419,6 +1419,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.typesafe.akka:akka-persistence-query_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.typesafe.akka:akka-pki_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
