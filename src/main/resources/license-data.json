@@ -830,7 +830,7 @@
       "license": "MIT",
       "licenseSource": "data"
     },
-    "com.lightbend.akka:akka-persistence-jdbc": {
+    "com.lightbend.akka:akka-persistence-jdbc_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
