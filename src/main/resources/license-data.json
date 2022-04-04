@@ -741,6 +741,10 @@
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
+    "com.google.re2j:re2j": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
     "com.amazonaws:jmespath-java": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
@@ -1826,7 +1830,15 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.grpc:grpc-services": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.grpc:grpc-stub": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-xds": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1950,6 +1962,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty.incubator:netty-incubator-codec-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty.incubator:netty-incubator-codec-native-quic": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1959,6 +1975,10 @@
       "licenseSource": "data"
     },
     "io.opencensus:opencensus-contrib-http-util": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.opencensus:opencensus-proto": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
