@@ -1962,6 +1962,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty.incubator:netty-incubator-codec-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty.incubator:netty-incubator-codec-native-quic": {
       "license": "Apache-2.0",
       "licenseSource": "data"
