@@ -1076,6 +1076,10 @@
       "license": "BSD-jmustache",
       "licenseSource": "data"
     },
+    "com.sksamuel.elastic4s:elastic4s-client-core_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.sksamuel.elastic4s:elastic4s-client-esjava_2.12": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -1092,7 +1096,19 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "com.sksamuel.elastic4s:elastic4s-domain_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.sksamuel.elastic4s:elastic4s-handlers_2.13": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.sksamuel.elastic4s:elastic4s-http_2.12": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "com.sksamuel.elastic4s:elastic4s-json-builder_2.13": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
