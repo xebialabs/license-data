@@ -395,6 +395,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.ben-manes.caffeine:jcache": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.dnvriend:akka-persistence-jdbc_2.11": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -4057,6 +4061,26 @@
       "licenseSource": "data"
     },
     "org.opentest4j:opentest4j": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.namespace.extender": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.service.component.annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.util.function": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.util.promise": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:osgi.annotation": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
