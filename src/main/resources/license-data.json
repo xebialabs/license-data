@@ -976,6 +976,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "com.opencsv:opencsv": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.openshift:openshift-restclient-java": {
       "license": "EPL-1.0",
       "licenseSource": "data"
@@ -2986,11 +2990,23 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.sshd:sshd-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.sshd:sshd-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.sshd:sshd-osgi": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.sshd:sshd-pam": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.sshd:sshd-sftp": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
