@@ -2253,6 +2253,13 @@
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
+    "jakarta.ws.rs:jakarta.ws.rs-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": [
+        "GPL-2.0"
+      ]
+    },
     "jakarta.xml.bind:jakarta.xml.bind-api": {
       "license": "EDL-1.0",
       "licenseSource": "data"
