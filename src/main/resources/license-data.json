@@ -2234,6 +2234,10 @@
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
+    "jakarta.management.j2ee:jakarta.management.j2ee-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "jakarta.persistence:jakarta.persistence-api": {
       "license": "EPL-2.0",
       "additionalLicenses": [
