@@ -2226,6 +2226,10 @@
       "license": "EDL-1.0",
       "licenseSource": "data"
     },
+    "jakarta.inject:jakarta.inject-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "jakarta.json:jakarta.json-api": {
       "license": "EPL-2.0",
       "licenseSource": "data"
