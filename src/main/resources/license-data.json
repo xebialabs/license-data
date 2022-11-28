@@ -629,6 +629,10 @@
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
+    "com.google.api:gax-httpjson": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
     "com.google.api:gax-rpc": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
@@ -1851,6 +1855,10 @@
       "licenseSource": "data"
     },
     "io.grpc:grpc-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-googleapis": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
