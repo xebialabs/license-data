@@ -2066,6 +2066,10 @@
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
+    "io.reactivex.rxjava3:rxjava": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "io.smallrye.common:smallrye-common-annotation": {
       "licenseSource": "data",
       "license": "Apache-2.0"
@@ -3840,6 +3844,22 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.infinispan:infinispan-jcache": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan:infinispan-jcache-commons": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan.protostream:protostream": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan.protostream:protostream-types": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.javassist:javassist": {
       "license": "Apache-2.0",
       "additionalLicenses": [
@@ -3960,6 +3980,10 @@
     },
     "org.jboss:jboss-dmr": {
       "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "org.jboss.threads:jboss-threads": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.jdom:jdom": {
