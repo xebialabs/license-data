@@ -3664,6 +3664,16 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jetty:jetty-alpn-java-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty:jetty-alpn-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
     "org.eclipse.jetty:jetty-annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3731,6 +3741,21 @@
     "org.eclipse.jetty:jetty-xml": {
       "license": "Apache-2.0",
       "licenseSource": "data"
+    },
+    "org.eclipse.jetty.http2:http2-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.http2:http2-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.http2:http2-hpack": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
     },
     "org.eclipse.jgit:org.eclipse.jgit": {
       "license": "EDL-1.0",
