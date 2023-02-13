@@ -3969,7 +3969,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.jboss.resteasy.spring:resteasy-spring": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },	  
     "org.jboss.resteasy:resteasy-spring-boot-starter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.resteasy:resteasy-servlet-spring-boot-starter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jboss.resteasy:resteasy-spring-boot-starter-common": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
