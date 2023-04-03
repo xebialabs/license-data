@@ -1826,11 +1826,35 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.github.resilience4j:resilience4j-all": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.resilience4j:resilience4j-bulkhead": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.resilience4j:resilience4j-cache": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.resilience4j:resilience4j-circuitbreaker": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.github.resilience4j:resilience4j-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.github.resilience4j:resilience4j-ratelimiter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.github.resilience4j:resilience4j-retry": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.resilience4j:resilience4j-timelimiter": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3972,7 +3996,7 @@
     "org.jboss.resteasy.spring:resteasy-spring": {
       "license": "Apache-2.0",
       "licenseSource": "data"
-    },	  
+    },
     "org.jboss.resteasy:resteasy-spring-boot-starter": {
       "license": "Apache-2.0",
       "licenseSource": "data"
