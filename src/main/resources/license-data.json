@@ -299,6 +299,10 @@
       "license": "BSD-EsotericSoftware",
       "licenseSource": "data"
     },
+    "com.ethlo.time:itu": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
     "com.fasterxml.jackson.core:jackson-annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1053,6 +1057,10 @@
       "licenseSource": "data"
     },
     "com.microsoft.azure:azure-mgmt-utility": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.networknt:json-schema-validator": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
