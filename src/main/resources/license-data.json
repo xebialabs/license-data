@@ -4836,6 +4836,10 @@
       "license": "MIT-RESTHTTPSERVICE",
       "licenseSource": "data"
     },
+    "p6spy:p6spy": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "qTip2": {
       "license": "MIT",
       "licenseSource": "data"
