@@ -347,6 +347,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-json-provider": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml.jackson.jakarta.rs:jackson-jakarta-rs-base:": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.fasterxml.jackson.jaxrs:jackson-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -364,6 +372,10 @@
       "licenseSource": "data"
     },
     "com.fasterxml.jackson.jaxrs:jackson-module-scala_2.11": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -1169,6 +1181,10 @@
       "additionalLicenses": "GPL-2",
       "licenseSource": "data"
     },
+    "com.sun.istack:istack-commons-tools": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "com.sun.jersey:jersey-client": {
       "license": "CDDL-1.1",
       "licenseSource": "data"
@@ -1189,6 +1205,14 @@
     "com.sun.mail:javax.mail": {
       "license": "CDDL-1.0",
       "extraLicenses": "GPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.sun.xml.bind.external:relaxng-datatype": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "com.sun.xml.bind.external:rngom": {
+      "license": "EDL-1.0",
       "licenseSource": "data"
     },
     "com.sun.xml.bind:jaxb-core": {
@@ -1818,6 +1842,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.dropwizard.metrics:metrics-jetty11": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.dropwizard.metrics:metrics-jmx": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2282,6 +2310,10 @@
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
+    "jakarta.mail:jakarta.mail-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "jakarta.management.j2ee:jakarta.management.j2ee-api": {
       "license": "EPL-2.0",
       "licenseSource": "data"
@@ -2302,6 +2334,10 @@
       "licenseSource": "data"
     },
     "jakarta.websocket:jakarta.websocket-api": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.websocket:jakarta.websocket-client-api": {
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
@@ -2461,6 +2497,14 @@
       "licenseSource": "data"
     },
     "io.micrometer:micrometer-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.micrometer:micrometer-observation": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.micrometer:micrometer-commons": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2641,6 +2685,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.activemq:activemq-client-jakarta": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-jakarta-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.activemq:artemis-spring-integration": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2798,6 +2850,10 @@
       "licenseSource": "data"
     },
     "org.apache.geronimo.specs:geronimo-stax-api_1.0_spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.httpcomponents.core5:httpcore5-h2": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3636,6 +3692,14 @@
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "org.eclipse.angus:angus-activation": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.angus:angus-mail": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "org.eclipse.aether:aether-api": {
       "license": "EPL-1.0",
       "licenseSource": "data"
@@ -3689,6 +3753,50 @@
       "licenseSource": "data"
     },
     "org.eclipse.jetty.websocket:websocket-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-jakarta-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-jetty-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-jakarta-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-jakarta-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-core-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-core-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-jetty-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-core-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty:jetty-alpn-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.websocket:websocket-jetty-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.eclipse.jetty.toolchain:jetty-jakarta-servlet-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3809,6 +3917,10 @@
       "license": "EPL-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.parsson:parsson": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "org.elasticsearch:elasticsearch": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3852,6 +3964,22 @@
       ],
       "licenseSource": "data"
     },
+    "org.glassfish.jaxb:jaxb-core": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "org.glassfish.jaxb:jaxb-xjc": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "org.glassfish.jaxb:jaxb-jxc": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "org.glassfish.jaxb:codemodel": {
+      "license": "EPL-2.0",
+      "licenseSource": "data"
+    },
     "org.glassfish.jaxb:jaxb-runtime": {
       "license": "CDDL-1.1",
       "additionalLicenses": [
@@ -3864,6 +3992,10 @@
       "additionalLicenses": [
         "GPL-1.1"
       ],
+      "licenseSource": "data"
+    },
+    "org.glassfish.jaxb:xsom": {
+      "license": "EPL-2.0",
       "licenseSource": "data"
     },
     "org.glassfish:jakarta.el": {
