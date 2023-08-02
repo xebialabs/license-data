@@ -2745,6 +2745,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.activemq:artemis-jakarta-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.activemq:artemis-jakarta-service-extensions": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.ant:ant": {
       "license": "Apache-2.0",
       "licenseSource": "data"
