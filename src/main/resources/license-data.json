@@ -447,6 +447,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.erosb:json-sKema": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.fge:json-patch": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2513,6 +2517,18 @@
       "licenseSource": "data"
     },
     "org.jctools:jctools-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jetbrains.kotlin:kotlin-stdlib": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jetbrains.kotlin:kotlin-stdlib-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.jetbrains:annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
