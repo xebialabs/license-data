@@ -1830,6 +1830,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.altoo:pekko-kryo-serialization_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.altoo:scala-kryo-serialization_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.dropwizard.metrics:metrics-annotation": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1895,6 +1903,10 @@
       "licenseSource": "data"
     },
     "io.github.resilience4j:resilience4j-timelimiter": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.samueleresca:pekko-quartz-scheduler_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3110,6 +3122,90 @@
       "licenseSource": "data"
     },
     "org.apache.pdfbox:pdfbox": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-actor-typed_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-actor_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-cluster-sharding_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-cluster-tools_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-cluster-typed_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-cluster_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-coordination_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-distributed-data_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-http-core_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-http-spray-json_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-http-xml_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-http_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-parsing_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-persistence-jdbc_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-persistence-query_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-persistence_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-pki_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-protobuf-v3_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-remote_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-slf4j_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-stream_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -4422,6 +4518,10 @@
     },
     "org.owasp.esapi:esapi": {
       "license": "BSD-OWASP",
+      "licenseSource": "data"
+    },
+    "org.parboiled:parboiled_2.13": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.parboiled:parboiled-core": {
