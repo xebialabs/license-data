@@ -3201,6 +3201,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.pekko:pekko-remote_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-serialization-jackson_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.pekko:pekko-slf4j_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
