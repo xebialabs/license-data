@@ -1942,6 +1942,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.grpc:grpc-inprocess": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.grpc:grpc-netty-shaded": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1959,6 +1963,10 @@
       "licenseSource": "data"
     },
     "io.grpc:grpc-stub": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.grpc:grpc-util": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
