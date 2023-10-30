@@ -1048,6 +1048,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.squareup:protoparser": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.microsoft.azure:azure-keyvault-core": {
       "license": "MIT",
       "licenseSource": "data"
@@ -2187,6 +2191,10 @@
       "license": "Apache-2.0"
     },
     "io.smallrye.config:smallrye-config-core": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
+    },
+    "io.smallrye:jandex": {
       "licenseSource": "data",
       "license": "Apache-2.0"
     },
@@ -3940,6 +3948,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jetty.websocket:websocket-jetty-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.eclipse.jetty:jetty-alpn-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -4182,6 +4194,14 @@
       "licenseSource": "data"
     },
     "org.infinispan:infinispan-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan:infinispan-core-jakarta": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan:infinispan-commons-jakarta": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5006,6 +5026,14 @@
       "licenseSource": "data"
     },
     "org.hibernate:hibernate-envers": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "org.hibernate.orm:hibernate-core": {
+      "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "org.hibernate.orm:hibernate-envers": {
       "license": "LGPL-2.1",
       "licenseSource": "data"
     },
