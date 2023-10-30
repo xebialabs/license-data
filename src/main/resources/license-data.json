@@ -1180,10 +1180,6 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "com.squareup:protoparser": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "com.sun.activation:jakarta.activation": {
       "license": "EDL-1.0",
       "licenseSource": "data"
@@ -5064,10 +5060,6 @@
       "additionalLicenses": "GPL-2.0"
     },
     "org.jboss:jandex": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "io.smallrye:jandex": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
