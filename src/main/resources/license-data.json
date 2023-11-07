@@ -4355,6 +4355,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.jboss.windup.decompiler:decompiler-fernflower": {
+      "license": "CC0-1.0",
+      "licenseSource": "data"
+    },
     "org.jdom:jdom": {
       "license": "JDOM",
       "licenseSource": "data"
