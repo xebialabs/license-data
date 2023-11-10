@@ -4452,6 +4452,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "org.kamranzafar:jtar": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.latencyutils:LatencyUtils": {
       "license": "CC0-1.0",
       "licenseSource": "data"
