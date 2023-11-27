@@ -5196,6 +5196,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "software.amazon.awssdk:aws-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "stax:stax-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
