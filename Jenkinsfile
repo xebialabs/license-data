@@ -6,7 +6,7 @@ def releaseArgs(params) {
       "-Prelease.explicit=${params.RELEASE_EXPLICIT}"
 }
 
-def supportedBranches = '22.1.x-maintenance 22.2.x-maintenance 22.3.x-maintenance 23.1.x-maintenance master'
+def supportedBranches = '22.3.x-maintenance 23.1.x-maintenance master 23.3.x-maintenance'
 
 String newVersion
 
