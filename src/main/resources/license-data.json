@@ -1116,6 +1116,21 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.rabbitmq.jms:rabbitmq-jms": {
+      "license": "Apache-2.0",
+      "additionalLicenses": [
+        "MPL-2.0"
+      ],
+      "licenseSource": "data"
+    },
+    "com.rabbitmq:amqp-client": {
+      "license": "Apache-2.0",
+      "additionalLicenses": [
+        "GPL-2",
+        "MPL-2.0"
+      ],
+      "licenseSource": "data"
+    },
     "com.ryantenney.metrics:metrics-spring": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -1859,6 +1874,10 @@
       "licenseSource": "data"
     },
     "io.dropwizard.metrics:metrics-jetty11": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.dropwizard.metrics:metrics-jetty12": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -3952,6 +3971,11 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jetty:jetty-session": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
     "org.eclipse.jetty.websocket:websocket-jetty-api": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -4042,6 +4066,21 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jetty.ee10:jetty-ee10-servlet": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee10:jetty-ee10-servlets": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee10:jetty-ee10-webapp": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
     "org.eclipse.jetty.http2:http2-server": {
       "license": "Apache-2.0",
       "licenseSource": "data",
@@ -4053,6 +4092,21 @@
       "additionalLicenses": "EPL-2.0"
     },
     "org.eclipse.jetty.http2:http2-hpack": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.http2:jetty-http2-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.http2:jetty-http2-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.http2:jetty-http2-hpack": {
       "license": "Apache-2.0",
       "licenseSource": "data",
       "additionalLicenses": "EPL-2.0"
