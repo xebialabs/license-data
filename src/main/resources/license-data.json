@@ -2563,6 +2563,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.micrometer:micrometer-jetty12": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.micrometer:micrometer-registry-jmx": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.codehaus.groovy:groovy-dateutil": {
       "license": "Apache-2.0",
       "licenseSource": "data"
