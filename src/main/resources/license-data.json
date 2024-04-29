@@ -2349,8 +2349,20 @@
       "license": "EDL-1.0",
       "licenseSource": "data"
     },
+    "jakarta.enterprise:jakarta.enterprise.cdi-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.enterprise:jakarta.enterprise.lang-model": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "jakarta.inject:jakarta.inject-api": {
       "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "jakarta.interceptor:jakarta.interceptor-api": {
+      "license": "EPL-2.0",
       "licenseSource": "data"
     },
     "jakarta.json:jakarta.json-api": {
