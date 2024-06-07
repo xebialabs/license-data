@@ -3995,6 +3995,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.eclipse.jetty:jetty-ee": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.eclipse.jetty:jetty-session": {
       "license": "Apache-2.0",
       "licenseSource": "data",
