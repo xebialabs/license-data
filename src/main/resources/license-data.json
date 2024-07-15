@@ -5350,103 +5350,103 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.annotations": {
+    "software.amazon.awssdk:annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.apache-client": {
+    "software.amazon.awssdk:apache-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.auth": {
+    "software.amazon.awssdk:auth": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.aws-json-protocol": {
+    "software.amazon.awssdk:aws-json-protocol": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.checksums": {
+    "software.amazon.awssdk:checksums": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.checksums-spi": {
+    "software.amazon.awssdk:checksums-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.endpoints-spi": {
+    "software.amazon.awssdk:endpoints-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.http-auth": {
+    "software.amazon.awssdk:http-auth": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.http-auth-aws": {
+    "software.amazon.awssdk:http-auth-aws": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.http-auth-spi": {
+    "software.amazon.awssdk:http-auth-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.http-client-spi": {
+    "software.amazon.awssdk:http-client-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.identity-spi": {
+    "software.amazon.awssdk:identity-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.json-utils": {
+    "software.amazon.awssdk:json-utils": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.marketplacemetering": {
+    "software.amazon.awssdk:marketplacemetering": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.metrics-spi": {
+    "software.amazon.awssdk:metrics-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.netty-nio-client": {
+    "software.amazon.awssdk:netty-nio-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.profiles": {
+    "software.amazon.awssdk:profiles": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.protocol-core": {
+    "software.amazon.awssdk:protocol-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.regions": {
+    "software.amazon.awssdk:regions": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.retries": {
+    "software.amazon.awssdk:retries": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.retries-spi": {
+    "software.amazon.awssdk:retries-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.sdk-core": {
+    "software.amazon.awssdk:sdk-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.s3": {
+    "software.amazon.awssdk:s3": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.third-party-jackson-core": {
+    "software.amazon.awssdk:third-party-jackson-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "software.amazon.awssdk.utils": {
+    "software.amazon.awssdk:utils": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5742,110 +5742,6 @@
     "SCALA-LICENSE": {
       "type": "Scala license",
       "file": "SCALA"
-    },
-    "software.amazon.awssdk.annotations": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.apache-client": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.auth": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.aws-json-protocol": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.checksums": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.checksums-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.endpoints-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.http-auth": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.http-auth-aws": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.http-auth-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.http-client-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.identity-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.json-utils": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.marketplacemetering": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.metrics-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.netty-nio-client": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.profiles": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.protocol-core": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.regions": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.retries": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.retries-spi": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.sdk-core": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.s3": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.third-party-jackson-core": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.awssdk.utils": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
-    "software.amazon.eventstream:eventstream": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
     },
     "WTFPL": {
       "file": "WTFPL",
