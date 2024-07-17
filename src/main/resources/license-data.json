@@ -5450,6 +5450,22 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "software.amazon.awssdk:aws-xml-protocol": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "software.amazon.awssdk:aws-query-protocol": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "software.amazon.awssdk:arns": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "software.amazon.awssdk:crt-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "software.amazon.eventstream:eventstream": {
       "license": "Apache-2.0",
       "licenseSource": "data"
