@@ -93,6 +93,16 @@
       "additionalLicenses": "LGPL-2.1",
       "licenseSource": "data"
     },
+    "ch.qos.logback.access:jetty12": {
+      "license": "EPL-1.0",
+      "additionalLicenses": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "ch.qos.logback.access:common": {
+      "license": "EPL-1.0",
+      "additionalLicenses": "LGPL-2.1",
+      "licenseSource": "data"
+    },
     "net.logstash.logback:logstash-logback-encoder":{
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -288,6 +298,10 @@
       "licenseSource": "data"
     },
     "com.esotericsoftware:kryo": {
+      "license": "BSD-3CLAUSE",
+      "licenseSource": "data"
+    },
+    "com.esotericsoftware:kryo5": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
     },
