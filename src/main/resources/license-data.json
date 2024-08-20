@@ -2862,6 +2862,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.activemq:artemis-lockmanager-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.ant:ant": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3603,6 +3607,10 @@
       "licenseSource": "data"
     },
     "org.aspectj:aspectjweaver": {
+      "license": "EPL-1.0",
+      "licenseSource": "data"
+    },
+    "de.dentrassi.crypto:pem-keystore": {
       "license": "EPL-1.0",
       "licenseSource": "data"
     },
@@ -4386,6 +4394,10 @@
       "licenseSource": "data"
     },
     "org.infinispan.protostream:protostream-types": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan.protostream:protostream-processor": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
