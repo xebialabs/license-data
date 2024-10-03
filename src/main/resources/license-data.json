@@ -3210,6 +3210,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.pdfbox:pdfbox-io": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.pekko:pekko-actor-typed_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
