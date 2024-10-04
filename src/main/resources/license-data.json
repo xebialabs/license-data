@@ -5424,6 +5424,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "software.amazon.awssdk:http-auth-aws-eventstream": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "software.amazon.awssdk:http-auth-spi": {
       "license": "Apache-2.0",
       "licenseSource": "data"
