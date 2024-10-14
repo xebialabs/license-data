@@ -820,7 +820,15 @@
       "licenseSource": "data"
     },
     "com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer": {
-      "license": "BSD-3CLAUSE",
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.googlecode.owasp-java-html-sanitizer:java8-shim": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.googlecode.owasp-java-html-sanitizer:java10-shim": {
+      "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "com.h2database:h2": {
