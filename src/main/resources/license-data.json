@@ -2541,8 +2541,8 @@
       "licenseSource": "data"
     },
     "jaxen:jaxen": {
-      "license": "BSD",
-      "licenseSource": "jar"
+      "license": "BSD-JAXEN2",
+      "licenseSource": "data"
     },
     "jcifs:jcifs": {
       "license": "LGPL-2.1",
