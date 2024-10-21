@@ -5612,6 +5612,10 @@
       "type": "BSD",
       "file": "BSD-INRIA"
     },
+    "BSD-JAXEN2": {
+      "type": "BSD",
+      "file": "BSD-JAXEN2"
+    },
     "BSD-Knopflerfish": {
       "type": "BSD",
       "file": "BSD-KNOPFLERFISH"
