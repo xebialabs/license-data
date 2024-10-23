@@ -3298,10 +3298,6 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
-    "org.apache.pekko:pekko-remote_2.13": {
-      "license": "Apache-2.0",
-      "licenseSource": "data"
-    },
     "org.apache.pekko:pekko-serialization-jackson_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -3311,6 +3307,22 @@
       "licenseSource": "data"
     },
     "org.apache.pekko:pekko-stream_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-management-cluster-http_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-management-cluster-bootstrap_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-management_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.pekko:pekko-discovery_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
