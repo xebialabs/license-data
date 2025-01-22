@@ -2613,6 +2613,34 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.micrometer:micrometer-registry-prometheus": {
+      "license": "Apache-2.0",
+      "licenseSource": "jar"
+    },
+    "io.prometheus:prometheus-metrics-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.prometheus:prometheus-metrics-exposition-formats": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.prometheus:prometheus-metrics-config": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.prometheus:prometheus-metrics-model": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.prometheus:prometheus-metrics-tracer-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.prometheus:prometheus-metrics-shaded-protobuf": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.codehaus.groovy:groovy-dateutil": {
       "license": "Apache-2.0",
       "licenseSource": "data"
