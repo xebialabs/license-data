@@ -2635,6 +2635,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.prometheus:prometheus-metrics-exposition-textformats": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.prometheus:prometheus-metrics-config": {
       "license": "Apache-2.0",
       "licenseSource": "data"
