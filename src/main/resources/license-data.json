@@ -5614,6 +5614,10 @@
     "com.flipkart.zjsonpatch:zjsonpatch": {
       "license": "Apache-2.0",
       "licenseSource": "data"
+    },
+    "org.jspecify:jspecify": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
     }
   },
   "licenses": {
@@ -5878,10 +5882,6 @@
     "XebiaLabs-FLOSS": {
       "type": "GPL, proprietary",
       "file": "XEBIALABS-FLOSS"
-    },
-    "org.jspecify:jspecify": {
-      "licenseSource": "data",
-      "license": "Apache-2.0"
     }
   }
 }
