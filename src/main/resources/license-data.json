@@ -299,6 +299,10 @@
       "license": "BSD-EsotericSoftware",
       "licenseSource": "data"
     },
+    "com.esotericsoftware.kryo:kryo5": {
+      "license": "BSD-EsotericSoftware",
+      "licenseSource": "data"
+    },
     "com.esotericsoftware.minlog:minlog": {
       "license": "BSD-EsotericSoftware",
       "licenseSource": "data"
@@ -5874,6 +5878,10 @@
     "XebiaLabs-FLOSS": {
       "type": "GPL, proprietary",
       "file": "XEBIALABS-FLOSS"
+    },
+    "org.jspecify:jspecify": {
+      "licenseSource": "data",
+      "license": "Apache-2.0"
     }
   }
 }
