@@ -5882,6 +5882,10 @@
     "XebiaLabs-FLOSS": {
       "type": "GPL, proprietary",
       "file": "XEBIALABS-FLOSS"
+    },
+    "org.postgresql:postgresql": {
+      "license": "BSD",
+      "licenseSource": "BSD-2CLAUSE"
     }
   }
 }
