@@ -4854,6 +4854,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.postgresql:postgresql": {
+      "license": "BSD-2CLAUSE",
+      "licenseSource": "data"
+    },
     "org.projectlombok:lombok": {
       "license": "MIT",
       "licenseSource": "data"
