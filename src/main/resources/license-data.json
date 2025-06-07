@@ -902,6 +902,18 @@
       "license": "SCALA-LICENSE",
       "licenseSource": "data"
     },
+    "com.lihaoyi:fastparse_2.13": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.lihaoyi:sourcecode_2.13": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "com.lihaoyi:geny_2.13": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "com.lihaoyi:requests_2.12": {
       "license": "MIT",
       "licenseSource": "data"
@@ -2656,6 +2668,10 @@
       "licenseSource": "data"
     },
     "io.prometheus:prometheus-metrics-shaded-protobuf": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.camunda.feel:feel-engine": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5342,6 +5358,10 @@
       "licenseSource": "data"
     },
     "com.fasterxml:classmate": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.fasterxml.uuid:java-uuid-generator": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
