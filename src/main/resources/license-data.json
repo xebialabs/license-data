@@ -5582,6 +5582,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+	"software.amazon.awssdk:utils-lite": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "software.amazon.awssdk:aws-xml-protocol": {
       "license": "Apache-2.0",
       "licenseSource": "data"
