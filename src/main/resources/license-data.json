@@ -4467,6 +4467,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.infinispan:infinispan-commons-spi": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.infinispan:infinispan-counter-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.infinispan:infinispan-jcache": {
       "license": "Apache-2.0",
       "licenseSource": "data"
