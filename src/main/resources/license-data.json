@@ -58,6 +58,10 @@
       "license": "BSD-asm",
       "licenseSource": "data"
     },
+    "at.yawk.lz4:lz4-java": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "backport-util-concurrent:backport-util-concurrent": {
       "license": "Public-Domain",
       "licenseSource": "data"
