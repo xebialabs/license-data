@@ -2053,6 +2053,22 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.smallrye.common:smallrye-common-net": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.smallrye.common:smallrye-common-ref": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.smallrye.common:smallrye-common-cpu": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.smallrye.common:smallrye-common-os": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.jsonwebtoken:jjwt": {
       "license": "Apache-2.0",
       "licenseSource": "data"
