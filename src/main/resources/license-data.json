@@ -4333,6 +4333,16 @@
       "licenseSource": "data",
       "additionalLicenses": "EPL-2.0"
     },
+    "org.eclipse.jetty.ee11:jetty-ee11-annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee11:jetty-ee11-plus": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
     "org.eclipse.jetty.ee11:jetty-ee11-servlet": {
       "license": "Apache-2.0",
       "licenseSource": "data",
@@ -4344,6 +4354,31 @@
       "additionalLicenses": "EPL-2.0"
     },
     "org.eclipse.jetty.ee11:jetty-ee11-webapp": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee11.websocket:jetty-ee11-websocket-jakarta-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee11.websocket:jetty-ee11-websocket-jakarta-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee11.websocket:jetty-ee11-websocket-jakarta-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee11.websocket:jetty-ee11-websocket-jetty-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data",
+      "additionalLicenses": "EPL-2.0"
+    },
+    "org.eclipse.jetty.ee11.websocket:jetty-ee11-websocket-servlet": {
       "license": "Apache-2.0",
       "licenseSource": "data",
       "additionalLicenses": "EPL-2.0"
@@ -5197,6 +5232,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-security": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-sql": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5233,6 +5272,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-starter-jetty-runtime": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-starter-security": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5258,6 +5301,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-transaction": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-validation": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5319,6 +5366,10 @@
       "licenseSource": "data"
     },
     "org.springframework.security:spring-security-access": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.snakeyaml:snakeyaml-engine": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5770,6 +5821,10 @@
       "licenseSource": "data"
     },
     "tools.jackson.core:jackson-databind": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "tools.jackson.dataformat:jackson-dataformat-yaml": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
