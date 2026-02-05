@@ -5228,6 +5228,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-tomcat": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-servlet": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5284,11 +5288,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-starter-tomcat-runtime": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-starter-validation": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter-web": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-webmvc": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
