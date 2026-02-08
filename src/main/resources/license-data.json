@@ -2117,7 +2117,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-codec-base": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-compression": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-codec-dns": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-haproxy": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -2126,6 +2138,14 @@
       "licenseSource": "data"
     },
     "io.netty:netty-codec-http2": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-marshalling": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-protobuf": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5188,6 +5208,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-http-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-http-converter": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5228,6 +5252,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-restclient": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-tomcat": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5253,6 +5281,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter-actuator": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-aspectj": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5543,6 +5575,10 @@
     },
     "org.hibernate.orm:hibernate-envers": {
       "license": "LGPL-2.1",
+      "licenseSource": "data"
+    },
+    "org.hibernate.orm:hibernate-community-dialects": {
+      "license": "LGPL-2.1-or-later",
       "licenseSource": "data"
     },
     "org.hibernate.common:hibernate-commons-annotations": {
@@ -6063,6 +6099,10 @@
     },
     "LGPL-2.1": {
       "type": "LGPL 2.1",
+      "file": "LGPL-2.1"
+    },
+    "LGPL-2.1-or-later": {
+      "type": "LGPL 2.1 or later",
       "file": "LGPL-2.1"
     },
     "LGPL-3.0": {
