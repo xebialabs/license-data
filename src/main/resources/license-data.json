@@ -5240,6 +5240,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-liquibase": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-micrometer-metrics": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5297,6 +5301,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter-json": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-liquibase": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
