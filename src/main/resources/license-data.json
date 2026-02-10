@@ -5188,6 +5188,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-artemis": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },  
     "org.springframework.boot:spring-boot-autoconfigure": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5229,6 +5233,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-jetty": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-jms": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5285,6 +5293,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter-actuator": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-artemis": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
