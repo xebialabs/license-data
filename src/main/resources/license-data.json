@@ -2141,6 +2141,18 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.netty:netty-codec-http3": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-classes-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.netty:netty-codec-native-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.netty:netty-codec-marshalling": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2443,6 +2455,10 @@
     },
     "jakarta.activation:jakarta.activation-api": {
       "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
+    "jakarta.el:jakarta.el-api": {
+      "license": "EPL-2.0",
       "licenseSource": "data"
     },
     "jakarta.enterprise:jakarta.enterprise.cdi-api": {
@@ -5280,6 +5296,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.springframework.boot:spring-boot-security-oauth2-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.springframework.boot:spring-boot-sql": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5333,6 +5353,10 @@
       "licenseSource": "data"
     },
     "org.springframework.boot:spring-boot-starter-security": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.boot:spring-boot-starter-security-oauth2-client": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
