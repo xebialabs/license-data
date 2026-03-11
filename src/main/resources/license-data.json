@@ -2992,6 +2992,46 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.artemis:artemis-jakarta-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-server": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-jakarta-service-extensions": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-jakarta-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-jdbc-store": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-core-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-selector": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-journal": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-lockmanager-api": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.artemis:artemis-commons": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.ant:ant": {
       "license": "Apache-2.0",
       "licenseSource": "data"
