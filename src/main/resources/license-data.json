@@ -3428,6 +3428,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.pekko:pekko-management-pki_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.pekko:pekko-parsing_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
