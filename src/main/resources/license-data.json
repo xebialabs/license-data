@@ -2735,6 +2735,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.jcommander:jcommander": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.jctools:jctools-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
