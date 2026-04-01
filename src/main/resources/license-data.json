@@ -2269,6 +2269,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.projectreactor.netty:reactor-netty-quic": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.projectreactor.netty.incubator:reactor-netty-incubator-quic": {
       "license": "Apache-2.0",
       "licenseSource": "data"
