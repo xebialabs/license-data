@@ -5972,6 +5972,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "tools.jackson.module:jackson-module-scala_2.13": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },	  
     "hcl2json" : {
       "license": "Apache-2.0",
       "licenseSource": "data",
