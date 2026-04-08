@@ -5972,6 +5972,18 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "tools.jackson.dataformat:jackson-dataformat-xml": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "tools.jackson.datatype:jackson-datatype-joda": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "tools.jackson.module:jackson-module-jakarta-xmlbind-annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "tools.jackson.module:jackson-module-scala_2.13": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -6006,6 +6018,10 @@
       "licenseSource": "data"
     },
     "com.flipkart.zjsonpatch:zjsonpatch": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "io.github.vishwakarma:zjsonpatch": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
