@@ -5980,6 +5980,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "tools.jackson.jakarta.rs:jackson-jakarta-rs-base": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "tools.jackson.jakarta.rs:jackson-jakarta-rs-json-provider": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "tools.jackson.module:jackson-module-jakarta-xmlbind-annotations": {
       "license": "Apache-2.0",
       "licenseSource": "data"
