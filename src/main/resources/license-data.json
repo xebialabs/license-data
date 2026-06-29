@@ -617,6 +617,18 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "com.github.victools:jsonschema-generator": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.victools:jsonschema-module-jackson": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "com.github.victools:jsonschema-module-swagger-2": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "com.github.virtuald:curvesapi": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
@@ -904,6 +916,10 @@
     },
     "com.jsuereth:scala-arm_2.12": {
       "license": "SCALA-LICENSE",
+      "licenseSource": "data"
+    },
+    "com.knuddels:jtokkit": {
+      "license": "MIT",
       "licenseSource": "data"
     },
     "com.lihaoyi:fastparse_2.13": {
@@ -2417,6 +2433,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "io.swagger.core.v3:swagger-annotations-jakarta": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.tmos:arm4s_2.12": {
       "license": "BSD-3CLAUSE",
       "licenseSource": "data"
@@ -2675,6 +2695,10 @@
       "license": "CPL-1.0",
       "licenseSource": "data"
     },
+    "io.micrometer:context-propagation": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "io.micrometer:micrometer-core": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -2702,6 +2726,18 @@
     "io.micrometer:micrometer-registry-prometheus": {
       "license": "Apache-2.0",
       "licenseSource": "jar"
+    },
+    "io.modelcontextprotocol.sdk:mcp": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "io.modelcontextprotocol.sdk:mcp-core": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
+    "io.modelcontextprotocol.sdk:mcp-json-jackson3": {
+      "license": "MIT",
+      "licenseSource": "data"
     },
     "io.prometheus:prometheus-metrics-core": {
       "license": "Apache-2.0",
@@ -5241,6 +5277,42 @@
       "licenseSource": "data"
     },
     "org.springextensions.actionscript:spring-actionscript-core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:mcp-spring-webmvc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-autoconfigure-mcp-server-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-autoconfigure-mcp-server-webmvc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-commons": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-mcp": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-mcp-annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-model": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-starter-mcp-server-webmvc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.springframework.ai:spring-ai-template-st": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
