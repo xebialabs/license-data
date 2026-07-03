@@ -2735,6 +2735,10 @@
       "license": "MIT",
       "licenseSource": "data"
     },
+    "io.modelcontextprotocol.sdk:mcp-json-jackson2": {
+      "license": "MIT",
+      "licenseSource": "data"
+    },
     "io.modelcontextprotocol.sdk:mcp-json-jackson3": {
       "license": "MIT",
       "licenseSource": "data"
