@@ -3160,6 +3160,14 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.apache.felix:org.apache.felix.framework": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.apache.felix:org.apache.felix.scr" : {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec": {
       "license": "Apache-2.0",
       "licenseSource": "data"
@@ -5036,7 +5044,19 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.osgi:osgi.core": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.service.component": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.osgi:org.osgi.service.component.annotations": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.service.log": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
@@ -5045,6 +5065,10 @@
       "licenseSource": "data"
     },
     "org.osgi:org.osgi.util.promise": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.osgi:org.osgi.util.tracker": {
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
