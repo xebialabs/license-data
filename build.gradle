@@ -1,15 +1,17 @@
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // Only modify and release the license-data from the master branch of the license-data repository!
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+import groovy.json.JsonSlurper
+
 buildscript {
     repositories {
         mavenLocal()
         ['releases', 'public'].each { r ->
             maven {
-                url "${nexusBaseUrl}/repositories/${r}"
+                url = uri("${nexusBaseUrl}/repositories/${r}")
                 credentials {
-                    username nexusUserName
-                    password nexusPassword
+                    username = nexusUserName
+                    password = nexusPassword
                 }
             }
         }
@@ -24,18 +26,37 @@ buildscript {
 group = 'com.xebialabs.deployit.gradle'
 
 apply plugin: 'java'
-apply plugin: 'maven'
 apply plugin: 'xebialabs.root.opinions'
-apply plugin: 'xebialabs.opinions'
 apply plugin: 'com.xebialabs.dependency'
+// Still the xebialabs.artifact plugin, as before. In gradle-xl-defaults-plugin 4.x it applies
+// maven-publish and registers the uploadArchives* tasks and the repo/mavenRepo/xebialabs
+// repositories itself, so the old 'maven' plugin (removed in Gradle 7) is no longer applied here.
 apply plugin: 'xebialabs.artifact'
 
-import groovy.json.JsonSlurper
+// gradle-xl-defaults-plugin dropped the 'xebialabs.opinions' plugin id after 1.x (4.0.5 ships
+// root.opinions/base/java/scala/artifact/itest/idea only). The part of it that mattered here was
+// pinning the Java version, which this toolchain block now does directly.
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(javaLanguageVersion)
+    }
+}
 
-task checkLicenseData() {
+// xebialabs.artifact sets up the publishing repositories but not what to publish; under the old
+// 'maven' plugin that came for free from the archives configuration.
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components.java
+        }
+    }
+}
+
+tasks.register('checkLicenseData') {
+    def resources = file('src/main/resources')
     doLast {
         def slurper = new JsonSlurper()
-        file('src/main/resources/license-data.json').withReader {
+        new File(resources, 'license-data.json').withReader {
             def data = slurper.parse(it)
             data.artifacts.each {
                 def source = it.value.licenseSource
@@ -45,7 +66,7 @@ task checkLicenseData() {
                     if (ld == null) {
                         throw new RuntimeException("licenses section is missing key for ${license}")
                     }
-                    def f = file("src/main/resources/${ld.file}")
+                    def f = new File(resources, ld.file as String)
                     if (ld.file && !f.exists()) {
                         throw new RuntimeException("License not found ${f} for ${it.key}")
                     }
@@ -54,5 +75,16 @@ task checkLicenseData() {
         }
     }
 }
-check.dependsOn checkLicenseData
-install.dependsOn check
+
+tasks.named('check') {
+    dependsOn 'checkLicenseData'
+}
+
+// Replaces the old `install.dependsOn check` (`install` came from the removed 'maven' plugin):
+// never publish license data - anywhere - that has not passed checkLicenseData.
+tasks.withType(PublishToMavenRepository).configureEach {
+    dependsOn 'check'
+}
+tasks.withType(PublishToMavenLocal).configureEach {
+    dependsOn 'check'
+}
