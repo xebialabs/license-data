@@ -2924,6 +2924,38 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "org.a2aproject.sdk:a2a-java-sdk-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-client-transport-jsonrpc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-client-transport-spi": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-http-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-jsonrpc-common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-spec": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "org.a2aproject.sdk:a2a-java-sdk-spec-grpc": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "org.awaitility:awaitility": {
       "license": "Apache-2.0",
       "licenseSource": "data"
