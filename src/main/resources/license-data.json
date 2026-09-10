@@ -5968,6 +5968,10 @@
       "license": "Apache-2.0",
       "licenseSource": "data"
     },
+    "software.amazon.awssdk:apache5-client": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "software.amazon.awssdk:auth": {
       "license": "Apache-2.0",
       "licenseSource": "data"
