@@ -1884,6 +1884,18 @@
       "license": "EPL-1.0",
       "licenseSource": "data"
     },
+    "dev.cel:common": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "dev.cel:protobuf": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
+    "dev.cel:runtime": {
+      "license": "Apache-2.0",
+      "licenseSource": "data"
+    },
     "dom4j:dom4j": {
       "license": "BSD-dom4j",
       "licenseSource": "data"
