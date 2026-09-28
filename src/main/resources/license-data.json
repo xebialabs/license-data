@@ -1314,6 +1314,10 @@
       "license": "CDDL-1.1",
       "licenseSource": "data"
     },
+    "com.sun.xml.dtd-parser:dtd-parser": {
+      "license": "EDL-1.0",
+      "licenseSource": "data"
+    },
     "com.sun.xml.fastinfoset:FastInfoset": {
       "license": "Apache-2.0",
       "licenseSource": "data"
