@@ -5017,7 +5017,7 @@
       "licenseSource": "data"
     },
     "org.liquibase:liquibase-core": {
-      "license": "Apache-2.0",
+      "license": "FSL-1.1-ALv2",
       "licenseSource": "data"
     },
     "org.lmdbjava:lmdbjava": {
