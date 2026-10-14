@@ -5017,7 +5017,7 @@
       "licenseSource": "data"
     },
     "org.liquibase:liquibase-core": {
-      "license": "Apache-2.0",
+      "license": "FSL-1.1-ALv2",
       "licenseSource": "data"
     },
     "org.lmdbjava:lmdbjava": {
@@ -6352,6 +6352,11 @@
     "EPL-2.0": {
       "type": "EPL-2.0",
       "file": "EPL-2.0"
+    },
+    "FSL-1.1-ALv2": {
+      "type": "Functional Source License, Version 1.1, ALv2 Future License",
+      "file": "FSL-1.1-ALv2",
+      "comment": "See https://fsl.software/FSL-1.1-ALv2.template.md"
     },
     "ICU-License": {
       "type": "MIT like",
